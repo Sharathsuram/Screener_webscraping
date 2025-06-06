@@ -202,7 +202,7 @@ class ScreenerFetcher:
 def main():
     fetcher = ScreenerFetcher()
     print("Fetching sector companies...")
-    companies = fetcher.fetch_all_sectors(top_n=5)
+    companies = fetcher.fetch_all_sectors(top_n=11)
     fetcher.save_to_csv(companies, 'top_companies.csv')
 
     print("\nFetching quarterly performance...")

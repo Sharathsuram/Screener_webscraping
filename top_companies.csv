@@ -1,0 +1,550 @@
+sector,rank,name,url,cmp,pe,market_cap,div_yield,net_profit_qtr,qtr_profit_var,sales_qtr,qtr_sales_var,roce
+Cement & Cement Products,2,UltraTech Cem.,https://www.screener.in/company/ULTRACEMCO/consolidated/,11253.0,54.21,331599.5,0.62,2474.79,7.44,23063.32,12.95,10.93
+Cement & Cement Products,3,Grasim Inds,https://www.screener.in/company/GRASIM/consolidated/,2571.2,46.21,175026.82,0.39,2973.26,-3.01,44267.26,17.34,7.6
+Cement & Cement Products,4,Ambuja Cements,https://www.screener.in/company/AMBUJACEM/consolidated/,555.35,33.02,136802.0,0.36,1282.24,-3.56,9888.61,11.18,10.5
+Cement & Cement Products,5,Shree Cement,https://www.screener.in/company/SHREECEM/consolidated/,29486.0,94.71,106346.44,0.35,574.99,-14.9,5532.02,2.43,6.74
+Cement & Cement Products,6,J K Cements,https://www.screener.in/company/JKCEMENT/consolidated/,5877.15,57.46,45404.56,0.26,361.33,68.44,3581.18,15.31,13.93
+Cement & Cement Products,7,Dalmia BharatLtd,https://www.screener.in/company/DALBHARAT/consolidated/,2112.1,50.88,39615.68,0.43,439.0,38.1,4091.0,-5.02,5.97
+Cement & Cement Products,8,ACC,https://www.screener.in/company/ACC/consolidated/,1902.4,15.49,35739.82,0.39,751.04,-11.6,6066.52,12.16,17.44
+Cement & Cement Products,9,The Ramco Cement,https://www.screener.in/company/RAMCOCEM/consolidated/,1005.0,232.4,23732.04,0.25,25.65,-84.57,2397.27,-10.49,4.76
+Cement & Cement Products,10,Nuvoco Vistas,https://www.screener.in/company/NUVOCO/consolidated/,363.5,594.44,12982.6,0.0,165.54,64.96,3042.25,3.71,3.95
+Cement & Cement Products,11,Birla Corpn.,https://www.screener.in/company/BIRLACORPN/consolidated/,1385.2,32.82,10667.43,0.73,256.6,51.83,2814.91,6.05,7.05
+Chemicals & Petrochemicals,2,Pidilite Inds.,https://www.screener.in/company/PIDILITIND/consolidated/,3049.1,74.09,155186.12,0.52,427.52,25.89,3141.14,8.25,29.86
+Chemicals & Petrochemicals,3,Solar Industries,https://www.screener.in/company/SOLARINDS/consolidated/,16542.8,123.78,149705.56,0.05,346.11,37.09,2166.55,34.51,36.82
+Chemicals & Petrochemicals,4,SRF,https://www.screener.in/company/SRF/consolidated/,3114.4,73.86,92386.94,0.23,526.06,24.6,4313.34,20.83,12.28
+Chemicals & Petrochemicals,5,Linde India,https://www.screener.in/company/LINDEINDIA/,7439.0,141.52,63373.91,0.05,117.9,13.01,591.88,-6.06,17.02
+Chemicals & Petrochemicals,6,Gujarat Fluoroch,https://www.screener.in/company/FLUOROCHEM/consolidated/,3657.9,73.6,40182.06,0.08,191.0,89.11,1225.0,8.12,21.41
+Chemicals & Petrochemicals,7,Deepak Nitrite,https://www.screener.in/company/DEEPAKNTR/consolidated/,1941.1,37.94,26456.55,0.39,202.5,3.35,2179.69,2.52,16.61
+Chemicals & Petrochemicals,8,Himadri Special,https://www.screener.in/company/HSCL/consolidated/,496.6,44.18,24521.15,0.12,155.46,34.99,1134.64,-3.59,22.01
+Chemicals & Petrochemicals,9,Tata Chemicals,https://www.screener.in/company/TATACHEM/consolidated/,934.1,89.37,23820.17,1.18,-49.0,-114.13,3509.0,0.98,4.15
+Chemicals & Petrochemicals,10,Navin Fluo.Intl.,https://www.screener.in/company/NAVINFLUOR/consolidated/,4431.0,76.17,21979.8,0.27,94.96,34.94,700.94,16.44,11.68
+Chemicals & Petrochemicals,11,Atul,https://www.screener.in/company/ATUL/consolidated/,7352.0,44.72,21643.64,0.27,130.13,116.57,1451.64,19.76,12.72
+Gas,2,GAIL (India),https://www.screener.in/company/GAIL/consolidated/,191.15,11.9,125696.22,3.4,2505.61,0.93,36442.09,11.25,14.0
+Gas,3,Adani Total Gas,https://www.screener.in/company/ATGL/consolidated/,679.8,114.13,74765.14,0.04,154.59,-7.96,1341.26,14.94,17.47
+Gas,4,Petronet LNG,https://www.screener.in/company/PETRONET/consolidated/,306.25,11.56,45930.05,3.27,1094.9,43.23,12315.75,-10.71,25.57
+Gas,5,Gujarat Gas,https://www.screener.in/company/GUJGASLTD/consolidated/,476.7,28.56,32815.58,1.2,287.88,-21.98,4102.01,-0.78,19.16
+Gas,6,Indraprastha Gas,https://www.screener.in/company/IGL/consolidated/,209.85,17.16,29397.38,2.15,453.21,4.6,3950.84,9.84,21.43
+Gas,7,Aegis Logistics,https://www.screener.in/company/AEGISLOG/consolidated/,799.65,48.53,28052.06,0.81,159.52,-4.52,1706.99,-8.88,14.74
+Gas,8,Guj.St.Petronet,https://www.screener.in/company/GSPL/consolidated/,328.7,16.69,18551.22,1.52,352.25,-50.56,4290.52,-5.33,15.04
+Gas,9,Mahanagar Gas,https://www.screener.in/company/MGL/,1331.0,12.49,13147.44,2.21,252.19,-4.83,1864.85,19.0,24.48
+Gas,10,Confidence Petro,https://www.screener.in/company/CONFIPET/consolidated/,59.74,22.96,1979.52,0.17,27.32,129.84,924.81,46.67,9.48
+Gas,11,IRM Energy,https://www.screener.in/company/IRMENERGY/consolidated/,299.0,27.15,1227.69,0.49,4.39,-51.11,267.86,25.02,8.51
+Finance,2,Bajaj Finance,https://www.screener.in/company/BAJFINANCE/consolidated/,9373.05,35.02,582569.26,0.47,4545.57,17.13,18456.85,23.65,11.29
+Finance,3,Bajaj Finserv,https://www.screener.in/company/BAJAJFINSV/consolidated/,1989.4,35.84,317950.74,0.05,4756.32,14.07,36595.36,14.21,10.96
+Finance,4,I R F C,https://www.screener.in/company/IRFC/,146.35,29.41,191257.59,1.09,1681.87,-2.06,6723.23,3.83,5.83
+Finance,5,Jio Financial,https://www.screener.in/company/JIOFIN/consolidated/,293.95,115.81,186754.81,0.0,316.11,1.76,493.24,17.97,1.47
+Finance,6,Bajaj Holdings,https://www.screener.in/company/BAJAJHLDNG/consolidated/,14250.0,24.33,158610.61,0.65,1750.79,-36.47,145.26,-88.01,9.94
+Finance,7,Power Fin.Corpn.,https://www.screener.in/company/PFC/consolidated/,418.8,6.02,138208.26,3.78,8357.88,12.31,29265.03,21.22,9.73
+Finance,8,Cholaman.Inv.&Fn,https://www.screener.in/company/CHOLAFIN/consolidated/,1593.65,31.41,133896.73,0.13,1259.54,18.24,7045.57,30.23,10.34
+Finance,9,Shriram Finance,https://www.screener.in/company/SHRIRAMFIN/consolidated/,688.65,15.59,129512.41,1.31,2143.77,10.69,11454.23,20.78,10.97
+Finance,10,REC Ltd,https://www.screener.in/company/RECLTD/consolidated/,415.3,6.88,109357.8,3.86,4309.98,5.66,15333.54,20.95,9.96
+Finance,11,Bajaj Housing,https://www.screener.in/company/BAJAJHFL/,125.7,48.39,104737.46,0.0,586.68,53.85,2507.96,25.62,9.54
+Pharmaceuticals & Biotechnology,2,Sun Pharma.Inds.,https://www.screener.in/company/SUNPHARMA/consolidated/,1679.95,35.15,403040.36,0.8,2153.93,-13.13,12958.84,8.14,20.19
+Pharmaceuticals & Biotechnology,3,Divi's Lab.,https://www.screener.in/company/DIVISLAB/consolidated/,6547.45,79.32,173770.97,0.46,662.0,23.05,2585.0,12.24,20.44
+Pharmaceuticals & Biotechnology,4,Cipla,https://www.screener.in/company/CIPLA/consolidated/,1500.6,23.0,121214.22,0.86,1214.14,30.29,6729.69,9.19,23.3
+Pharmaceuticals & Biotechnology,5,Dr Reddy's Labs,https://www.screener.in/company/DRREDDY/consolidated/,1320.5,19.49,110249.63,0.61,1586.7,21.14,8528.4,19.89,23.13
+Pharmaceuticals & Biotechnology,6,Torrent Pharma.,https://www.screener.in/company/TORNTPHARM/consolidated/,3151.3,55.27,106573.19,1.01,498.0,14.78,2959.0,7.8,27.22
+Pharmaceuticals & Biotechnology,7,Mankind Pharma,https://www.screener.in/company/MANKIND/consolidated/,2352.9,48.85,97097.3,0.0,424.65,-9.86,3079.37,27.13,17.93
+Pharmaceuticals & Biotechnology,8,Zydus Lifesci.,https://www.screener.in/company/ZYDUSLIFE/consolidated/,960.45,20.72,96653.85,0.31,1243.7,6.44,6527.9,17.96,24.44
+Pharmaceuticals & Biotechnology,9,Lupin,https://www.screener.in/company/LUPIN/consolidated/,1994.0,27.75,91060.51,0.4,782.38,114.93,5667.13,14.24,21.53
+Pharmaceuticals & Biotechnology,10,Aurobindo Pharma,https://www.screener.in/company/AUROPHARMA/consolidated/,1160.25,19.52,67983.53,0.39,902.83,-7.19,8382.12,10.58,14.27
+Pharmaceuticals & Biotechnology,11,Abbott India,https://www.screener.in/company/ABBOTINDIA/,31500.0,47.31,66927.05,1.31,367.04,27.86,1604.59,11.54,46.23
+"Paper, Forest & Jute Products",2,A B Real Estate,https://www.screener.in/company/ABREL/consolidated/,2359.35,,26396.91,0.21,-135.2,-162.95,394.76,-51.52,-0.12
+"Paper, Forest & Jute Products",3,JK Paper,https://www.screener.in/company/JKPAPER/consolidated/,374.4,15.5,6351.74,2.27,77.18,-72.36,1689.5,-1.69,9.42
+"Paper, Forest & Jute Products",4,West Coast Paper,https://www.screener.in/company/WSTCSTPAPR/consolidated/,496.8,10.56,3281.32,1.64,46.15,-63.28,1041.29,-2.69,11.19
+"Paper, Forest & Jute Products",5,Bio Green Papers,https://www.screener.in/company/534535/consolidated/,155.55,51.38,1811.1,0.0,12.91,16237.5,153.85,,25.96
+"Paper, Forest & Jute Products",6,Seshasayee Paper,https://www.screener.in/company/SESHAPAPER/consolidated/,281.1,16.3,1779.34,0.89,27.07,-52.38,502.35,-6.87,7.04
+"Paper, Forest & Jute Products",7,Andhra Paper,https://www.screener.in/company/ANDHRAPAP/,76.96,17.22,1530.95,2.6,7.85,-79.56,407.37,11.8,6.38
+"Paper, Forest & Jute Products",8,T N Newsprint,https://www.screener.in/company/TNPL/,163.85,303.35,1131.5,2.44,22.12,-32.95,1336.77,8.73,5.84
+"Paper, Forest & Jute Products",9,Pudumjee Paper,https://www.screener.in/company/PDMJEPAPER/,115.75,11.48,1099.09,0.53,18.85,-49.6,190.08,-7.42,23.79
+"Paper, Forest & Jute Products",10,Kuantum Papers,https://www.screener.in/company/KUANTUM/,113.05,8.53,982.57,2.65,26.12,-22.93,277.35,-7.19,11.12
+"Paper, Forest & Jute Products",11,Pakka,https://www.screener.in/company/PAKKA/,181.8,14.37,817.14,0.0,12.57,46.33,92.16,-2.56,13.61
+Auto Components,2,Samvardh. Mothe.,https://www.screener.in/company/MOTHERSON/consolidated/,157.5,29.14,110843.02,0.54,1115.38,-23.41,29316.83,8.35,13.94
+Auto Components,3,Bosch,https://www.screener.in/company/BOSCHLTD/,31557.8,46.26,93074.39,1.19,553.7,-1.91,4910.6,16.0,21.11
+Auto Components,4,Schaeffler India,https://www.screener.in/company/SCHAEFFLER/,4269.4,65.72,66729.97,0.66,265.41,16.58,2110.02,14.1,25.67
+Auto Components,5,Uno Minda,https://www.screener.in/company/UNOMINDA/consolidated/,1088.0,66.72,62509.81,0.21,289.24,-1.18,4528.32,19.35,18.88
+Auto Components,6,Bharat Forge,https://www.screener.in/company/BHARATFORG/consolidated/,1296.2,61.52,61967.41,0.69,282.63,22.54,3852.6,-7.48,13.09
+Auto Components,7,MRF,https://www.screener.in/company/MRF/consolidated/,139975.0,31.72,59303.3,0.14,512.11,29.29,7074.82,11.43,13.59
+Auto Components,8,Tube Investments,https://www.screener.in/company/TIINDIA/consolidated/,3064.0,87.38,59286.53,0.11,158.19,-75.44,5149.96,14.7,21.55
+Auto Components,9,Balkrishna Inds,https://www.screener.in/company/BALKRISIND/consolidated/,2500.0,29.25,48399.15,0.64,368.55,-24.28,2752.38,2.63,18.09
+Auto Components,10,Endurance Tech.,https://www.screener.in/company/ENDURANCE/consolidated/,2484.5,42.29,34947.71,0.35,245.13,12.13,2963.49,10.38,18.21
+Auto Components,11,Exide Inds.,https://www.screener.in/company/EXIDEIND/consolidated/,393.0,42.03,33413.54,0.51,187.91,1.15,4335.42,3.89,8.87
+Non - Ferrous Metals,2,Hindustan Zinc,https://www.screener.in/company/HINDZINC/,502.2,20.5,211979.91,5.77,2976.0,45.74,9041.0,19.75,60.81
+Non - Ferrous Metals,3,Hindalco Inds.,https://www.screener.in/company/HINDALCO/consolidated/,649.85,8.78,146024.56,0.54,5284.0,66.3,64890.0,15.89,15.21
+Non - Ferrous Metals,4,Natl. Aluminium,https://www.screener.in/company/NATIONALUM/consolidated/,188.45,6.57,34601.84,4.24,2067.23,203.24,5267.83,47.19,43.96
+Non - Ferrous Metals,5,Hindustan Copper,https://www.screener.in/company/HINDCOPPER/,255.95,52.75,24717.86,0.36,190.54,53.28,731.4,29.37,23.99
+Non - Ferrous Metals,6,Dec.Gold Mines,https://www.screener.in/company/512068/consolidated/,153.1,,2402.46,0.0,11.82,117.54,0.47,-85.45,-21.11
+Non - Ferrous Metals,7,Maan Aluminium,https://www.screener.in/company/MAANALU/,124.9,43.47,674.28,0.0,3.94,-45.88,245.86,3.56,10.73
+Non - Ferrous Metals,8,MMP Industries,https://www.screener.in/company/MMP/consolidated/,251.5,16.46,638.92,0.6,10.86,8.49,223.12,39.3,14.22
+Non - Ferrous Metals,9,Arfin India,https://www.screener.in/company/539151/,27.33,50.39,461.11,0.0,0.54,-75.23,153.37,12.11,13.97
+Non - Ferrous Metals,10,Euro Panel,https://www.screener.in/company/EUROBOND/,162.5,21.6,398.13,0.0,10.71,34.55,223.52,8.54,15.92
+Non - Ferrous Metals,11,PG Foils,https://www.screener.in/company/526747/,287.0,10.69,338.51,0.0,10.58,27.62,151.46,122.44,3.4
+Commercial Services & Supplies,2,Firstsour.Solu.,https://www.screener.in/company/FSL/consolidated/,372.4,44.83,26329.73,1.07,160.69,20.37,2161.46,29.39,14.78
+Commercial Services & Supplies,3,Redington,https://www.screener.in/company/REDINGTON/consolidated/,282.6,18.78,22100.92,2.19,917.74,-6.5,26439.68,17.86,17.87
+Commercial Services & Supplies,4,eClerx Services,https://www.screener.in/company/ECLERX/consolidated/,3597.0,32.59,17631.46,0.03,152.51,17.15,898.29,17.19,29.08
+Commercial Services & Supplies,5,International Ge,https://www.screener.in/company/IGIL/consolidated/,402.4,40.6,17390.09,0.6,140.73,11.62,304.78,9.62,67.94
+Commercial Services & Supplies,6,MMTC,https://www.screener.in/company/MMTC/consolidated/,73.67,113.32,11047.6,0.0,2.23,-97.21,0.23,-64.06,7.69
+Commercial Services & Supplies,7,CMS Info Systems,https://www.screener.in/company/CMSINFO/consolidated/,483.5,21.2,7889.88,1.3,97.56,6.72,619.07,-1.28,23.44
+Commercial Services & Supplies,8,NESCO,https://www.screener.in/company/NESCO/,946.85,17.78,6673.3,0.63,88.62,-15.7,192.01,1.61,20.36
+Commercial Services & Supplies,9,AWFIS Space,https://www.screener.in/company/AWFIS/consolidated/,692.55,114.02,4914.6,0.0,11.23,700.72,339.69,46.22,12.58
+Commercial Services & Supplies,10,Quess Corp,https://www.screener.in/company/QUESS/consolidated/,315.95,23.35,4706.05,3.16,-95.44,49.29,3656.42,3.38,9.79
+Commercial Services & Supplies,11,Nirlon,https://www.screener.in/company/500307/,515.0,21.27,4641.18,5.05,53.54,4.61,158.02,3.04,30.14
+Leisure Services,2,Indian Hotels Co,https://www.screener.in/company/INDHOTEL/consolidated/,777.35,65.47,110679.18,0.29,562.66,25.43,2425.14,27.28,17.5
+Leisure Services,3,I R C T C,https://www.screener.in/company/IRCTC/,779.55,48.65,62364.0,0.9,357.95,17.74,1268.53,9.85,49.01
+Leisure Services,4,Jubilant Food.,https://www.screener.in/company/JUBLFOOD/consolidated/,693.45,200.83,45770.3,0.17,49.34,-3.91,2103.18,33.64,12.86
+Leisure Services,5,ITC Hotels,https://www.screener.in/company/ITCHOTELS/consolidated/,219.0,71.81,45577.73,0.0,257.85,,1060.62,,
+Leisure Services,6,EIH,https://www.screener.in/company/EIHOTEL/consolidated/,374.75,30.83,23429.27,0.32,261.62,26.5,827.45,11.62,23.19
+Leisure Services,7,Devyani Intl.,https://www.screener.in/company/DEVYANI/consolidated/,171.1,,20672.62,0.0,-16.77,-97.32,1212.59,15.81,6.28
+Leisure Services,8,Chalet Hotels,https://www.screener.in/company/CHALET/consolidated/,920.0,141.03,20101.13,0.0,123.84,50.22,521.97,24.8,11.3
+Leisure Services,9,Ventive Hospital,https://www.screener.in/company/VENTIVE/consolidated/,748.9,142.46,17489.93,0.0,151.13,170.76,697.94,461.9,11.77
+Leisure Services,10,BLS Internat.,https://www.screener.in/company/BLS/consolidated/,399.1,32.26,16432.62,0.24,145.22,67.34,692.77,54.74,32.9
+Leisure Services,11,TBO Tek,https://www.screener.in/company/TBOTEK/consolidated/,1335.1,66.08,14497.61,0.0,58.91,10.84,446.13,20.88,26.35
+Textiles & Apparels,2,Page Industries,https://www.screener.in/company/PAGEIND/,46219.9,70.73,51574.53,1.94,164.01,51.58,1098.07,10.64,59.4
+Textiles & Apparels,3,K P R Mill Ltd,https://www.screener.in/company/KPRMILL/consolidated/,1132.9,47.49,38707.17,0.44,204.55,-4.24,1768.98,4.26,20.26
+Textiles & Apparels,4,Trident,https://www.screener.in/company/TRIDENT/consolidated/,30.92,42.62,15762.12,1.62,133.42,135.4,1864.34,10.82,9.52
+Textiles & Apparels,5,Vardhman Textile,https://www.screener.in/company/VTL/consolidated/,485.4,15.93,14069.7,0.82,237.88,18.31,2508.57,2.0,11.23
+Textiles & Apparels,6,Welspun Living,https://www.screener.in/company/WELSPUNLIV/consolidated/,137.35,20.92,13347.78,1.25,132.8,0.97,2645.9,2.74,14.44
+Textiles & Apparels,7,Alok Industries,https://www.screener.in/company/ALOKINDS/consolidated/,19.34,,9607.72,0.0,-74.47,21.98,952.96,-35.14,-4.79
+Textiles & Apparels,8,Arvind Ltd,https://www.screener.in/company/ARVIND/consolidated/,357.6,26.49,9366.61,1.05,154.64,52.52,2220.69,7.05,12.54
+Textiles & Apparels,9,Garware Tech.,https://www.screener.in/company/GARFIBRES/consolidated/,905.8,38.82,8989.52,0.07,71.08,1.4,432.55,13.15,24.67
+Textiles & Apparels,10,Gokaldas Exports,https://www.screener.in/company/GOKEX/consolidated/,945.5,43.62,6914.3,0.0,52.86,19.38,1015.34,24.98,11.77
+Textiles & Apparels,11,Pearl Global Ind,https://www.screener.in/company/PGIL/consolidated/,1397.35,28.43,6449.37,0.82,64.97,26.02,1229.04,40.08,21.77
+"Agricultural, Commercial & Construction Vehicles",2,Ashok Leyland,https://www.screener.in/company/ASHOKLEY/consolidated/,242.15,22.96,71117.13,2.58,1245.92,33.61,14695.55,8.52,14.37
+"Agricultural, Commercial & Construction Vehicles",3,Escorts Kubota,https://www.screener.in/company/ESCORTS/consolidated/,3297.85,32.79,36917.33,0.55,318.42,12.43,2444.88,6.27,14.03
+"Agricultural, Commercial & Construction Vehicles",4,BEML Ltd,https://www.screener.in/company/BEML/consolidated/,4379.1,62.38,18246.22,0.47,287.55,11.97,1652.53,9.18,15.65
+"Agricultural, Commercial & Construction Vehicles",5,Action Const.Eq.,https://www.screener.in/company/ACE/consolidated/,1245.0,36.21,14816.39,0.16,118.56,20.44,960.99,14.97,40.28
+"Agricultural, Commercial & Construction Vehicles",6,Ajax Engineering,https://www.screener.in/company/AJAXENGG/,622.5,27.31,7121.82,0.0,90.95,3.04,755.75,15.0,33.57
+"Agricultural, Commercial & Construction Vehicles",7,VST Till. Tract.,https://www.screener.in/company/VSTTILLERS/,3800.0,34.8,3284.45,0.54,24.98,-28.87,301.43,10.24,12.83
+"Agricultural, Commercial & Construction Vehicles",8,SML ISUZU,https://www.screener.in/company/SMLISUZU/,1903.3,22.7,2761.9,0.84,52.95,1.2,771.38,13.51,27.14
+"Agricultural, Commercial & Construction Vehicles",9,TIL,https://www.screener.in/company/TIL/consolidated/,362.8,847.91,2425.02,0.0,9.76,-71.97,101.52,223.0,11.66
+"Agricultural, Commercial & Construction Vehicles",10,Atul Auto,https://www.screener.in/company/ATULAUTO/consolidated/,478.75,72.42,1328.17,0.0,5.89,20.7,210.98,31.75,6.52
+"Agricultural, Commercial & Construction Vehicles",11,Indo Farm Equip.,https://www.screener.in/company/INDOFARM/consolidated/,162.85,33.23,782.52,0.0,13.51,,129.97,,7.74
+Consumer Durables,2,Titan Company,https://www.screener.in/company/TITAN/consolidated/,3556.0,94.62,315728.3,0.31,871.0,12.97,14916.0,19.39,22.17
+Consumer Durables,3,Asian Paints,https://www.screener.in/company/ASIANPAINT/consolidated/,2248.0,54.9,215632.46,1.1,700.83,-35.15,8358.91,-4.26,25.73
+Consumer Durables,4,Havells India,https://www.screener.in/company/HAVELLS/consolidated/,1522.55,64.42,95435.78,0.66,517.0,15.74,6543.56,20.24,25.32
+Consumer Durables,5,Dixon Technolog.,https://www.screener.in/company/DIXON/consolidated/,14838.0,115.79,89689.19,0.03,464.95,138.1,10292.54,120.97,39.81
+Consumer Durables,6,Berger Paints,https://www.screener.in/company/BERGEPAINT/consolidated/,582.4,57.83,68265.33,0.6,262.91,17.99,2704.03,7.29,25.14
+Consumer Durables,7,Kalyan Jewellers,https://www.screener.in/company/KALYANKJIL/consolidated/,563.2,81.24,58116.36,0.22,187.61,36.45,6181.53,36.61,14.31
+Consumer Durables,8,Voltas,https://www.screener.in/company/VOLTAS/consolidated/,1271.15,50.41,42060.46,0.44,235.69,113.02,4767.56,13.44,17.86
+Consumer Durables,9,Metro Brands,https://www.screener.in/company/METROBRAND/consolidated/,1227.0,95.27,33409.16,0.41,95.34,-38.94,642.77,10.26,19.95
+Consumer Durables,10,Blue Star,https://www.screener.in/company/BLUESTARCO/consolidated/,1590.5,56.22,32706.12,0.44,194.0,21.24,4018.96,20.77,26.05
+Consumer Durables,11,Crompton Gr. Con,https://www.screener.in/company/CROMPTON/consolidated/,352.2,40.78,22676.47,0.87,171.74,27.02,2060.64,5.08,19.01
+Industrial Products,2,Cummins India,https://www.screener.in/company/CUMMINSIND/consolidated/,3383.8,46.91,93817.14,1.12,529.5,-1.74,2470.38,6.53,36.41
+Industrial Products,3,Polycab India,https://www.screener.in/company/POLYCAB/consolidated/,6108.25,45.5,91899.19,0.5,734.36,33.09,6985.8,24.93,31.0
+Industrial Products,4,Supreme Inds.,https://www.screener.in/company/SUPREMEIND/consolidated/,4337.1,59.71,55095.99,0.78,293.94,-17.16,3027.07,0.64,22.04
+Industrial Products,5,APL Apollo Tubes,https://www.screener.in/company/APLAPOLLO/consolidated/,1924.0,70.56,53418.05,0.29,293.11,71.97,5508.6,15.59,22.8
+Industrial Products,6,Astral,https://www.screener.in/company/ASTRAL/consolidated/,1527.65,79.09,41037.99,0.25,178.1,-1.77,1681.4,3.46,20.34
+Industrial Products,7,KEI Industries,https://www.screener.in/company/KEI/consolidated/,3745.4,51.35,35761.26,0.11,226.55,34.25,2914.79,25.11,21.31
+Industrial Products,8,AIA Engineering,https://www.screener.in/company/AIAENG/consolidated/,3506.4,31.23,33104.48,0.46,285.35,9.5,1157.04,0.59,19.09
+Industrial Products,9,Welspun Corp,https://www.screener.in/company/WELCORP/consolidated/,966.3,16.81,25435.17,0.54,699.19,15.46,3924.97,-12.02,25.62
+Industrial Products,10,Timken India,https://www.screener.in/company/TIMKEN/,3303.0,55.55,24852.28,0.08,186.83,32.1,939.79,4.68,21.0
+Industrial Products,11,Shyam Metalics,https://www.screener.in/company/SHYAMMETL/consolidated/,874.5,26.82,24410.06,0.5,220.15,1.02,4139.36,14.78,12.05
+Minerals & Mining,2,Lloyds Metals,https://www.screener.in/company/LLOYDSME/,1458.2,52.62,76294.15,0.07,202.47,-26.92,1193.3,-23.23,38.33
+Minerals & Mining,3,NMDC,https://www.screener.in/company/NMDC/consolidated/,72.47,9.75,63669.34,3.33,1476.71,3.43,7004.59,7.94,29.59
+Minerals & Mining,4,Gravita India,https://www.screener.in/company/GRAVITA/consolidated/,1882.7,44.49,13899.34,0.34,94.92,37.61,1037.07,20.11,21.63
+Minerals & Mining,5,G M D C,https://www.screener.in/company/GMDCLTD/consolidated/,400.95,18.62,12768.57,2.38,226.22,20.82,786.28,4.8,14.17
+Minerals & Mining,6,MOIL,https://www.screener.in/company/MOIL/,386.7,20.67,7887.08,1.56,115.65,26.88,433.39,4.21,19.12
+Minerals & Mining,7,Ashapura Minech.,https://www.screener.in/company/ASHAPURMIN/consolidated/,406.7,13.43,3882.56,0.0,78.55,289.05,555.24,26.17,17.12
+Minerals & Mining,8,Orissa Minerals,https://www.screener.in/company/ORISSAMINE/,5088.5,648.58,3054.84,0.0,-7.49,-422.84,20.62,-27.09,30.74
+Minerals & Mining,9,20 Microns,https://www.screener.in/company/20MICRONS/consolidated/,227.9,12.59,804.39,0.55,15.21,12.9,227.41,7.1,19.16
+Minerals & Mining,10,NILE,https://www.screener.in/company/530129/consolidated/,1638.0,13.52,491.4,0.24,9.71,60.23,189.98,9.11,19.85
+Minerals & Mining,11,Petro Carbon,https://www.screener.in/company/PCCL/,190.35,49.65,470.16,0.0,1.19,-96.29,119.52,-36.94,5.25
+Automobiles,2,Maruti Suzuki,https://www.screener.in/company/MARUTI/consolidated/,12443.9,26.99,391323.32,1.0,3911.1,-1.04,40920.1,6.37,21.76
+Automobiles,3,M & M,https://www.screener.in/company/M&M/consolidated/,3105.05,29.85,385868.2,0.68,3541.85,19.65,42599.31,20.16,14.07
+Automobiles,4,Tata Motors,https://www.screener.in/company/TATAMOTORS/consolidated/,711.8,9.28,262064.94,0.84,8556.0,-49.58,119503.0,0.39,19.97
+Automobiles,5,Bajaj Auto,https://www.screener.in/company/BAJAJ-AUTO/consolidated/,8637.9,32.92,241164.98,2.43,1801.85,-10.42,12646.32,9.45,28.14
+Automobiles,6,Hyundai Motor I,https://www.screener.in/company/HYUNDAI/,1860.2,27.51,151148.88,0.0,1582.56,-4.05,17561.95,2.51,54.22
+Automobiles,7,Eicher Motors,https://www.screener.in/company/EICHERMOT/consolidated/,5402.3,31.31,148212.33,0.95,1362.15,27.25,5241.11,23.15,29.77
+Automobiles,8,TVS Motor Co.,https://www.screener.in/company/TVSMOTOR/consolidated/,2746.5,59.12,130511.49,0.36,697.51,68.86,11542.0,16.09,19.43
+Automobiles,9,Hero Motocorp,https://www.screener.in/company/HEROMOTOCO/consolidated/,4268.9,19.51,85397.99,2.69,1168.75,24.21,9969.81,3.67,31.15
+Automobiles,10,Ola Electric,https://www.screener.in/company/OLAELEC/consolidated/,48.68,,21471.92,0.0,-870.0,-109.13,611.0,-61.76,-28.1
+Automobiles,11,Force Motors,https://www.screener.in/company/FORCEMOT/consolidated/,12512.0,30.13,16482.26,0.16,434.74,26.81,2356.01,17.14,29.8
+Realty,2,DLF,https://www.screener.in/company/DLF/consolidated/,880.0,47.59,217893.41,0.57,1282.2,39.4,3127.58,46.5,6.51
+Realty,3,Macrotech Devel.,https://www.screener.in/company/LODHA/consolidated/,1515.75,54.76,151245.46,0.16,922.8,38.5,4224.3,5.12,15.62
+Realty,4,Godrej Propert.,https://www.screener.in/company/GODREJPROP/consolidated/,2467.95,53.5,74330.99,0.0,378.44,-19.7,2121.73,48.78,7.41
+Realty,5,Prestige Estates,https://www.screener.in/company/PRESTIGE/consolidated/,1708.0,157.36,73566.46,0.1,43.1,-82.14,1528.4,-29.37,7.69
+Realty,6,Oberoi Realty,https://www.screener.in/company/OBEROIRLTY/consolidated/,1916.0,31.31,69671.99,0.42,433.17,-45.03,1150.14,-12.52,18.16
+Realty,7,Phoenix Mills,https://www.screener.in/company/PHOENIXLTD/consolidated/,1597.95,58.5,57128.62,0.16,347.7,-17.19,1016.34,-22.18,11.17
+Realty,8,Embassy Off.REIT,https://www.screener.in/company/EMBASSY/consolidated/,395.12,23.08,37453.21,0.19,-242.88,-185.7,1097.74,11.85,3.67
+Realty,9,Brigade Enterpr.,https://www.screener.in/company/BRIGADE/consolidated/,1277.6,45.85,31193.44,0.16,249.35,19.76,1460.39,-14.21,13.38
+Realty,10,Mindspace Busine,https://www.screener.in/company/MINDSPACE/consolidated/,403.32,51.39,24569.61,7.48,96.11,-38.0,704.14,13.53,6.53
+Realty,11,Nexus Select,https://www.screener.in/company/NXST/consolidated/,138.0,43.28,20907.06,6.05,114.27,-21.93,586.76,8.3,5.65
+Agricultural Food & other Products,2,Tata Consumer,https://www.screener.in/company/TATACONSUM/consolidated/,1116.4,87.5,110537.62,0.74,348.72,-8.72,4608.22,17.35,9.16
+Agricultural Food & other Products,3,Marico,https://www.screener.in/company/MARICO/consolidated/,698.9,55.65,90654.15,1.36,345.0,7.86,2730.0,19.84,45.58
+Agricultural Food & other Products,4,Patanjali Foods,https://www.screener.in/company/PATANJALI/,1711.25,47.6,61943.64,0.47,358.54,73.78,9692.21,17.8,15.47
+Agricultural Food & other Products,5,AWL Agri Busine.,https://www.screener.in/company/AWL/consolidated/,263.95,27.96,34304.96,0.0,190.66,21.39,18229.59,37.86,20.84
+Agricultural Food & other Products,6,L T Foods,https://www.screener.in/company/LTFOODS/consolidated/,476.15,27.33,16547.13,0.42,160.52,7.91,2228.36,7.4,19.23
+Agricultural Food & other Products,7,Balrampur Chini,https://www.screener.in/company/BALRAMCHIN/consolidated/,609.0,28.17,12307.06,0.49,229.12,12.65,1503.68,4.84,11.08
+Agricultural Food & other Products,8,CCL Products,https://www.screener.in/company/CCL/consolidated/,874.5,37.7,11700.48,0.51,101.87,56.19,835.85,15.02,13.14
+Agricultural Food & other Products,9,Triven.Engg.Ind.,https://www.screener.in/company/TRIVENI/consolidated/,430.05,39.51,9413.67,0.81,187.12,13.64,1629.29,25.12,8.62
+Agricultural Food & other Products,10,KRBL,https://www.screener.in/company/KRBL/consolidated/,372.0,17.88,8508.9,1.07,154.21,35.18,1442.25,9.4,11.85
+Agricultural Food & other Products,11,Kaveri Seed Co.,https://www.screener.in/company/KSCL/consolidated/,1429.35,26.12,7346.04,0.35,-22.85,-8362.96,90.25,-8.24,21.71
+Industrial Manufacturing,2,Mazagon Dock,https://www.screener.in/company/MAZDOCK/consolidated/,3404.1,56.91,137314.49,0.43,325.29,-50.93,3174.41,2.28,43.17
+Industrial Manufacturing,3,Cochin Shipyard,https://www.screener.in/company/COCHINSHIP/,2392.6,74.71,62944.76,0.39,284.7,7.57,1651.13,34.73,20.13
+Industrial Manufacturing,4,Kaynes Tech,https://www.screener.in/company/KAYNES/consolidated/,5735.8,125.21,36757.53,0.0,116.2,43.0,984.48,54.48,14.42
+Industrial Manufacturing,5,Honeywell Auto,https://www.screener.in/company/HONAUT/,39044.35,65.72,34409.29,0.27,139.9,-5.6,1114.5,17.23,18.25
+Industrial Manufacturing,6,Jyoti CNC Auto.,https://www.screener.in/company/JYOTICNC/consolidated/,1218.35,85.92,27708.0,0.0,108.97,9.36,575.68,27.89,24.35
+Industrial Manufacturing,7,LMW,https://www.screener.in/company/LMW/consolidated/,16234.95,168.88,17328.25,0.46,47.82,-27.52,803.63,-17.21,5.52
+Industrial Manufacturing,8,Jupiter Wagons,https://www.screener.in/company/JWL/,401.0,45.64,17026.55,0.25,97.33,-6.61,1002.04,-9.96,21.6
+Industrial Manufacturing,9,Titagarh Rail,https://www.screener.in/company/TITAGARH/consolidated/,940.75,46.05,12666.05,0.09,64.45,-20.17,1005.57,-4.45,16.56
+Industrial Manufacturing,10,Tega Inds.,https://www.screener.in/company/TEGA/consolidated/,1595.0,53.0,10612.42,0.12,101.91,13.88,536.11,5.75,17.74
+Industrial Manufacturing,11,Syrma SGS Tech.,https://www.screener.in/company/SYRMA/consolidated/,535.15,55.45,9503.44,0.28,71.46,87.29,932.4,-18.39,12.41
+Fertilizers & Agrochemicals,2,Coromandel Inter,https://www.screener.in/company/COROMANDEL/consolidated/,2282.0,37.51,67283.47,0.26,578.46,89.62,4988.39,27.49,24.09
+Fertilizers & Agrochemicals,3,F A C T,https://www.screener.in/company/FACT/consolidated/,1037.4,3001.97,67094.2,0.09,70.72,-52.55,1053.28,-0.8,8.64
+Fertilizers & Agrochemicals,4,P I Industries,https://www.screener.in/company/PIIND/consolidated/,3894.7,35.59,59080.58,0.38,330.5,-10.55,1787.1,2.65,22.58
+Fertilizers & Agrochemicals,5,UPL,https://www.screener.in/company/UPL/consolidated/,642.75,48.23,52229.99,0.16,1079.0,826.31,15573.0,10.62,7.76
+Fertilizers & Agrochemicals,6,Sumitomo Chemi.,https://www.screener.in/company/SUMICHEM/,519.0,51.63,25905.63,0.16,98.41,-9.95,664.8,0.06,25.11
+Fertilizers & Agrochemicals,7,Bayer Crop Sci.,https://www.screener.in/company/BAYERCROP/,5494.6,43.5,24707.18,2.55,143.3,49.27,1046.4,32.07,24.76
+Fertilizers & Agrochemicals,8,Chambal Fert.,https://www.screener.in/company/CHAMBLFERT/consolidated/,539.9,13.12,21633.18,1.39,130.31,34.65,2448.73,-7.35,27.87
+Fertilizers & Agrochemicals,9,Paradeep Phosph.,https://www.screener.in/company/PARADEEP/consolidated/,171.7,25.43,13999.69,0.27,160.03,644.33,3494.02,55.79,13.92
+Fertilizers & Agrochemicals,10,R C F,https://www.screener.in/company/RCF/consolidated/,163.1,37.6,9002.52,0.76,72.46,-17.13,3729.67,-3.87,7.5
+Fertilizers & Agrochemicals,11,G S F C,https://www.screener.in/company/GSFC/consolidated/,209.6,14.13,8352.88,1.91,71.76,193.41,1922.19,-2.19,6.16
+Electrical Equipment,2,A B B,https://www.screener.in/company/ABB/,6050.0,67.86,128203.5,0.73,474.63,3.16,3159.56,2.57,38.65
+Electrical Equipment,3,Siemens,https://www.screener.in/company/SIEMENS/consolidated/,3297.0,62.5,117463.06,0.36,582.5,-37.19,4259.0,2.57,23.61
+Electrical Equipment,4,CG Power & Ind,https://www.screener.in/company/CGPOWER/consolidated/,682.2,107.25,104355.45,0.19,274.26,14.18,2752.77,25.6,38.09
+Electrical Equipment,5,Suzlon Energy,https://www.screener.in/company/SUZLON/consolidated/,66.74,43.68,90498.04,0.0,1180.98,320.4,3789.94,72.57,32.41
+Electrical Equipment,6,B H E L,https://www.screener.in/company/BHEL/consolidated/,255.65,166.77,89036.62,0.1,504.45,3.03,8993.37,8.88,4.46
+Electrical Equipment,7,Waaree Energies,https://www.screener.in/company/WAAREEENER/consolidated/,2828.55,43.44,81259.45,0.0,644.46,129.68,4003.93,36.38,35.12
+Electrical Equipment,8,Hitachi Energy,https://www.screener.in/company/POWERINDIA/,18189.95,211.16,81076.92,0.02,183.89,61.79,1883.68,11.11,19.12
+Electrical Equipment,9,GE Vernova T&D,https://www.screener.in/company/GVT&D/,2311.95,97.26,59168.17,0.09,186.49,181.32,1152.54,26.15,53.94
+Electrical Equipment,10,Premier Energies,https://www.screener.in/company/PREMIERENE/consolidated/,1055.3,50.72,47570.19,0.05,277.81,167.23,1620.84,43.87,41.46
+Electrical Equipment,11,Thermax,https://www.screener.in/company/THERMAX/consolidated/,3531.0,67.13,42073.5,0.34,205.55,9.58,3084.93,11.62,16.18
+Food Products,2,Nestle India,https://www.screener.in/company/NESTLEIND/,2414.65,75.2,232810.21,0.7,885.41,-4.45,5503.88,4.49,95.66
+Food Products,3,Britannia Inds.,https://www.screener.in/company/BRITANNIA/consolidated/,5604.75,61.46,134976.56,1.31,559.13,4.2,4432.19,8.92,53.01
+Food Products,4,Hatsun Agro,https://www.screener.in/company/HATSUN/,981.5,76.57,21857.19,0.61,49.64,-4.81,2210.33,7.99,13.27
+Food Products,5,Bikaji Foods,https://www.screener.in/company/BIKAJI/consolidated/,760.5,98.09,19057.54,0.13,39.92,-65.66,613.62,-0.14,18.07
+Food Products,6,EID Parry,https://www.screener.in/company/EIDPARRY/consolidated/,966.55,22.79,17188.46,0.41,539.44,-31.34,6811.12,22.57,17.35
+Food Products,7,Godrej Agrovet,https://www.screener.in/company/GODREJAGRO/consolidated/,805.7,38.41,15495.9,1.2,66.1,15.7,2133.64,-0.03,16.49
+Food Products,8,Bombay Burmah,https://www.screener.in/company/BBTC/consolidated/,1990.0,12.33,13894.42,0.86,584.78,0.77,4518.82,8.58,35.46
+Food Products,9,Zydus Wellness,https://www.screener.in/company/ZYDUSWELL/consolidated/,1944.95,36.29,12376.15,0.26,171.9,14.37,913.1,16.68,6.32
+Food Products,10,Avanti Feeds,https://www.screener.in/company/AVANTIFEED/consolidated/,743.15,19.14,10123.08,0.91,157.19,45.83,1385.14,7.92,25.09
+Food Products,11,Mrs Bectors,https://www.screener.in/company/BECTORFOOD/,1401.7,71.11,8606.19,0.23,28.84,-5.38,411.73,8.71,16.37
+Power,2,NTPC,https://www.screener.in/company/NTPC/consolidated/,332.85,13.78,322753.53,2.33,7897.14,23.38,49833.7,4.63,10.76
+Power,3,Power Grid Corpn,https://www.screener.in/company/POWERGRID/consolidated/,295.85,17.72,275158.36,3.8,4142.87,-0.56,12275.35,2.48,12.89
+Power,4,Adani Power,https://www.screener.in/company/ADANIPOWER/consolidated/,555.2,16.78,214156.8,0.0,2599.23,-5.04,14237.4,6.54,22.54
+Power,5,Adani Green,https://www.screener.in/company/ADANIGREEN/consolidated/,1018.6,96.99,161349.58,0.0,383.0,75.71,3073.0,21.61,8.7
+Power,6,Tata Power Co.,https://www.screener.in/company/TATAPOWER/consolidated/,399.45,31.54,127686.5,0.56,1306.09,18.16,17095.88,7.88,11.29
+Power,7,Adani Energy Sol,https://www.screener.in/company/ADANIENSOL/consolidated/,884.0,47.65,106193.36,0.0,713.66,79.05,6374.58,35.43,10.23
+Power,8,NTPC Green,https://www.screener.in/company/NTPCGREEN/consolidated/,108.75,193.28,91636.39,0.0,233.21,188.09,622.27,22.46,4.87
+Power,9,JSW Energy,https://www.screener.in/company/JSWENERGY/consolidated/,522.85,46.84,91373.09,0.38,414.51,18.18,3189.39,15.73,6.8
+Power,10,NHPC Ltd,https://www.screener.in/company/NHPC/consolidated/,89.29,29.83,89692.12,2.13,919.63,56.95,2346.97,24.38,7.39
+Power,11,Torrent Power,https://www.screener.in/company/TORNTPOWER/consolidated/,1409.1,23.75,70984.91,1.35,1077.22,146.27,6456.34,-1.11,16.76
+Construction,2,Larsen & Toubro,https://www.screener.in/company/LT/consolidated/,3650.0,32.98,502123.36,0.93,6155.82,19.34,74392.28,10.9,14.49
+Construction,3,Rail Vikas,https://www.screener.in/company/RVNL/consolidated/,428.75,69.71,89395.18,0.49,459.12,-4.03,6426.88,-4.28,14.71
+Construction,4,NBCC,https://www.screener.in/company/NBCC/consolidated/,127.7,56.55,34489.86,0.41,182.67,21.36,4642.55,16.17,33.48
+Construction,5,IRB Infra.Devl.,https://www.screener.in/company/IRB/consolidated/,51.64,31.23,31185.39,0.58,214.72,13.68,2149.24,4.27,7.82
+Construction,6,K E C Intl.,https://www.screener.in/company/KEC/consolidated/,889.05,41.4,23629.86,0.45,268.2,76.74,6872.12,11.47,16.0
+Construction,7,Ircon Intl.,https://www.screener.in/company/IRCON/consolidated/,218.5,28.3,20550.22,1.39,211.78,-14.52,3412.07,-9.9,12.1
+Construction,8,Kalpataru Proj.,https://www.screener.in/company/KPIL/consolidated/,1148.0,34.57,19606.4,0.7,218.17,32.75,7066.77,18.35,14.06
+Construction,9,Techno Elec.Engg,https://www.screener.in/company/TECHNOE/consolidated/,1485.9,45.7,17280.97,0.45,134.65,73.65,815.79,85.57,16.53
+Construction,10,Afcons Infrastr.,https://www.screener.in/company/AFCONS/consolidated/,434.6,32.88,15983.91,0.0,110.92,-23.45,3223.27,-11.36,19.51
+Construction,11,NCC,https://www.screener.in/company/NCC/consolidated/,237.85,18.2,14919.85,0.92,265.07,-2.14,6130.88,-5.46,22.12
+Transport Services,2,Interglobe Aviat,https://www.screener.in/company/INDIGO/,5478.5,29.18,211710.79,0.0,3073.4,62.28,22152.0,24.27,19.56
+Transport Services,3,Container Corpn.,https://www.screener.in/company/CONCOR/consolidated/,809.55,37.54,49310.1,1.42,298.88,-5.81,2287.83,-1.6,13.69
+Transport Services,4,Delhivery,https://www.screener.in/company/DELHIVERY/consolidated/,366.85,163.7,27370.48,0.0,72.56,234.84,2191.57,5.59,2.72
+Transport Services,5,Blue Dart Expres,https://www.screener.in/company/BLUEDART/consolidated/,6515.05,61.18,15443.64,0.38,55.15,-29.09,1417.32,7.14,17.16
+Transport Services,6,GE Shipping Co,https://www.screener.in/company/GESHIP/consolidated/,986.55,6.01,14085.4,3.01,363.09,-56.85,1223.04,-18.32,16.93
+Transport Services,7,S C I,https://www.screener.in/company/SCI/consolidated/,213.6,11.8,9950.88,0.23,185.14,-39.75,1325.19,-6.18,9.89
+Transport Services,8,Transport Corp.,https://www.screener.in/company/TCI/consolidated/,1156.15,21.83,9003.42,0.83,115.1,9.53,1178.8,9.26,20.57
+Transport Services,9,Zinka Logistics,https://www.screener.in/company/BLACKBUCK/,440.2,23.68,7862.67,0.0,280.66,427.9,120.35,29.08,10.69
+Transport Services,10,SpiceJet,https://www.screener.in/company/SPICEJET/,41.42,,5854.29,0.0,24.97,108.28,1231.07,-35.33,1.64
+Transport Services,11,TVS Supply,https://www.screener.in/company/TVSSCS/consolidated/,131.2,,5788.13,0.0,-3.92,-190.74,2498.83,2.99,4.67
+Personal Products,2,Godrej Consumer,https://www.screener.in/company/GODREJCP/consolidated/,1210.45,65.3,123814.71,1.24,411.9,65.01,3597.95,6.27,19.39
+Personal Products,3,Dabur India,https://www.screener.in/company/DABUR/consolidated/,481.25,49.09,85437.51,1.14,312.73,-8.35,2830.14,0.55,20.32
+Personal Products,4,Colgate-Palmoliv,https://www.screener.in/company/COLPAL/,2435.65,46.12,66267.79,2.1,355.0,-6.53,1462.51,-1.85,105.36
+Personal Products,5,P & G Hygiene,https://www.screener.in/company/PGHH/,13501.0,61.16,43897.94,1.44,156.1,1.12,991.63,-1.05,112.44
+Personal Products,6,Gillette India,https://www.screener.in/company/GILLETTE/,9806.3,59.87,31945.46,0.66,158.68,60.14,767.47,12.74,58.91
+Personal Products,7,Emami,https://www.screener.in/company/EMAMILTD/consolidated/,584.35,31.73,25478.28,1.37,162.17,10.51,963.05,8.06,33.86
+Personal Products,8,Honasa Consumer,https://www.screener.in/company/HONASA/,320.0,162.3,10405.87,0.0,22.64,-15.24,479.28,12.2,7.44
+Personal Products,9,Cupid,https://www.screener.in/company/CUPID/,108.0,70.7,2893.93,0.0,11.55,-51.31,61.11,-7.24,16.88
+Personal Products,10,Bajaj Consumer,https://www.screener.in/company/BAJAJCON/consolidated/,173.9,19.82,2483.61,1.72,30.98,-12.93,250.49,4.39,19.27
+Personal Products,11,Radix Industries,https://www.screener.in/company/531412/,182.1,103.91,273.28,0.27,0.67,3.08,12.28,54.85,18.52
+IT - Hardware,2,Moschip Tech.,https://www.screener.in/company/MOSCHIP/consolidated/,188.4,107.94,3611.71,0.0,8.69,898.85,134.71,78.61,11.96
+IT - Hardware,3,Bharat Global,https://www.screener.in/company/521238/,215.55,655.45,2182.65,0.0,1.99,-26.02,122.16,394.37,2.44
+IT - Hardware,4,Rashi Peripheral,https://www.screener.in/company/RPTECH/consolidated/,317.2,10.14,2090.32,0.32,52.74,52.69,2973.17,-0.97,14.02
+IT - Hardware,5,NELCO,https://www.screener.in/company/NELCO/consolidated/,906.55,215.61,2069.78,0.11,-4.08,-166.89,67.52,-17.27,14.38
+IT - Hardware,6,D-Link India,https://www.screener.in/company/DLINKINDIA/consolidated/,499.25,17.01,1773.49,1.6,27.43,9.28,369.76,10.75,30.45
+IT - Hardware,7,Control Print,https://www.screener.in/company/CONTROLPR/consolidated/,735.2,11.74,1174.71,1.22,66.64,434.4,122.07,21.33,18.38
+IT - Hardware,8,TVS Elec.,https://www.screener.in/company/TVSELECT/,471.7,,879.72,0.21,-0.57,-200.0,114.56,18.01,-0.72
+IT - Hardware,9,HCL Infosystems,https://www.screener.in/company/HCL-INSYS/consolidated/,17.67,,581.72,0.0,-3.9,-76.13,4.65,-30.8,-35.78
+IT - Hardware,10,DC Infotech,https://www.screener.in/company/DCI/,283.0,28.16,408.09,0.0,3.72,-11.64,172.72,11.73,25.54
+IT - Hardware,11,Esconet,https://www.screener.in/company/ESCONET/,217.6,41.67,287.15,0.0,4.69,108.44,120.5,82.02,18.32
+IT - Services,2,L&T Technology,https://www.screener.in/company/LTTS/consolidated/,4304.0,36.15,45570.91,1.27,310.2,-9.01,2982.4,17.53,28.29
+IT - Services,3,Tata Technolog.,https://www.screener.in/company/TATATECH/consolidated/,758.3,45.42,30761.77,1.07,188.87,20.12,1285.65,-1.18,25.8
+IT - Services,4,Inventurus Knowl,https://www.screener.in/company/IKS/consolidated/,1604.4,56.57,27527.17,0.0,147.8,132.5,723.96,16.78,27.22
+IT - Services,5,Affle 3i,https://www.screener.in/company/AFFLE/consolidated/,1803.5,66.34,25338.92,0.0,103.07,17.81,602.25,18.97,16.82
+IT - Services,6,Sagility India,https://www.screener.in/company/SAGILITY/consolidated/,38.85,33.76,18186.94,0.0,182.57,127.62,1568.48,22.23,9.48
+IT - Services,7,Cyient,https://www.screener.in/company/CYIENT/consolidated/,1330.0,23.94,14740.57,2.25,186.4,-9.94,1909.2,2.6,16.66
+IT - Services,8,Netweb Technol.,https://www.screener.in/company/NETWEB/,1970.5,97.47,11163.61,0.1,42.99,44.94,414.65,55.95,32.57
+IT - Services,9,Black Box,https://www.screener.in/company/BBOX/consolidated/,558.7,35.53,9465.63,0.0,60.47,55.24,1544.58,4.34,29.18
+IT - Services,10,eMudhra,https://www.screener.in/company/EMUDHRA/consolidated/,743.8,72.77,6159.52,0.17,24.34,13.76,146.88,47.34,15.32
+IT - Services,11,Zaggle Prepaid,https://www.screener.in/company/ZAGGLE/,433.7,66.51,5821.79,0.0,31.96,66.81,411.45,50.51,12.99
+Other Construction Materials,2,Ramco Inds.,https://www.screener.in/company/RAMCOIND/consolidated/,263.4,12.64,2286.99,0.29,35.71,-18.49,418.66,14.73,3.61
+Other Construction Materials,3,Midwest Gold,https://www.screener.in/company/526570/consolidated/,658.45,,727.45,0.0,,,,,
+Other Construction Materials,4,Everest Inds.,https://www.screener.in/company/EVERESTIND/consolidated/,461.95,,723.88,0.54,7.64,-102.76,452.63,4.75,0.72
+Other Construction Materials,5,Vishnusurya,https://www.screener.in/company/VISHNUINFR/,191.9,16.13,472.27,0.52,7.46,53.81,131.5,0.44,23.96
+Other Construction Materials,6,Marble City,https://www.screener.in/company/531281/,163.95,154.63,368.02,0.0,4.56,423.4,25.36,265.42,10.98
+Other Construction Materials,7,Nidhi Granites,https://www.screener.in/company/512103/consolidated/,174.0,72.5,139.2,0.0,-0.88,-1077.78,10.48,-7.91,16.35
+Other Construction Materials,8,MCON Rasayan,https://www.screener.in/company/MCON/,115.0,37.14,84.29,0.0,1.02,-12.07,29.18,17.28,11.11
+Other Construction Materials,9,Divyashakti,https://www.screener.in/company/526315/,68.25,26.25,70.09,2.93,0.61,29.79,18.41,13.99,2.25
+Other Construction Materials,10,Associated Cera.,https://www.screener.in/company/531168/,211.75,29.46,63.63,0.0,0.25,151.02,11.27,11.25,11.5
+Other Construction Materials,11,Ravi Leela Gran,https://www.screener.in/company/526095/,38.49,,40.74,0.0,-0.23,88.56,16.19,107.83,-1.2
+Entertainment,2,Sun TV Network,https://www.screener.in/company/SUNTV/consolidated/,616.5,13.91,24269.86,2.71,371.77,-0.34,940.59,-2.15,20.45
+Entertainment,3,Zee Entertainmen,https://www.screener.in/company/ZEEL/consolidated/,126.59,15.99,12163.03,0.79,188.4,1144.88,2184.1,0.65,9.21
+Entertainment,4,Saregama India,https://www.screener.in/company/SAREGAMA/consolidated/,573.0,55.15,11062.31,0.78,59.86,4.5,240.82,-8.45,18.05
+Entertainment,5,Nazara Technolo.,https://www.screener.in/company/NAZARA/consolidated/,1239.9,173.67,10863.63,0.0,4.07,-19.18,520.2,95.41,3.02
+Entertainment,6,PVR Inox,https://www.screener.in/company/PVRINOX/consolidated/,1019.2,,9990.28,0.0,-125.3,3.47,1249.8,-0.53,2.86
+Entertainment,7,Tips Music,https://www.screener.in/company/TIPSMUSIC/,686.8,52.68,8773.24,1.02,30.61,18.83,78.49,24.08,112.44
+Entertainment,8,Netwrk.18 Media,https://www.screener.in/company/NETWORK18/consolidated/,54.19,,8363.75,0.0,-29.09,82.72,561.32,-76.8,0.64
+Entertainment,9,Prime Focus,https://www.screener.in/company/PFOCUS/consolidated/,117.45,,3522.13,0.0,-251.62,290.74,978.95,12.12,8.08
+Entertainment,10,Hathway Cable,https://www.screener.in/company/HATHWAY/consolidated/,15.56,29.39,2752.53,0.0,34.8,1.41,513.15,4.01,2.94
+Entertainment,11,Den Networks,https://www.screener.in/company/DEN/consolidated/,36.66,8.87,1744.25,0.0,59.86,-22.31,248.1,-3.84,6.99
+Diversified,2,Godrej Industrie,https://www.screener.in/company/GODREJIND/consolidated/,1359.0,46.8,45926.64,0.0,416.13,822.49,5779.69,26.55,8.32
+Diversified,3,3M India,https://www.screener.in/company/3MINDIA/,29326.15,69.44,33057.21,0.54,71.37,-55.74,1198.23,16.03,36.98
+Diversified,4,DCM Shriram,https://www.screener.in/company/DCMSHRIRAM/consolidated/,1063.3,27.43,16575.85,0.62,178.91,51.88,2876.76,19.9,11.67
+Diversified,5,Balmer Lawrie,https://www.screener.in/company/BALMLAWRIE/consolidated/,213.85,14.11,3657.44,3.98,73.51,0.22,608.16,5.46,14.91
+Diversified,6,TTK Healthcare,https://www.screener.in/company/TTKHLTCARE/,1221.0,24.31,1730.33,0.82,16.15,12.21,190.36,5.14,9.25
+Diversified,7,Dhunseri Vent.,https://www.screener.in/company/DVL/consolidated/,339.65,8.31,1188.39,1.48,-87.42,-462.02,147.23,-44.13,6.55
+Diversified,8,Empire Inds.,https://www.screener.in/company/509525/,1089.95,18.98,653.97,2.29,4.44,-64.76,186.39,22.62,14.43
+Diversified,9,Maheshwari Logi.,https://www.screener.in/company/MAHESHWARI/consolidated/,58.72,9.57,173.81,0.0,8.22,138.65,259.03,-0.61,12.77
+Diversified,10,Krypton Industri,https://www.screener.in/company/523550/consolidated/,48.45,182.61,71.22,2.06,-0.83,-419.23,13.08,-5.29,8.18
+Diversified,11,HCKK Ventures,https://www.screener.in/company/539224/,157.15,265.0,58.3,0.0,0.08,0.0,0.15,-6.25,6.97
+Diversified FMCG,2,Hind. Unilever,https://www.screener.in/company/HINDUNILVR/consolidated/,2388.85,53.83,561116.82,1.8,2475.0,2.61,15670.0,3.02,27.85
+Diversified FMCG,3,ITC,https://www.screener.in/company/ITC/consolidated/,420.9,26.51,526468.07,3.41,19807.88,3.97,18765.0,10.14,36.98
+Diversified FMCG,4,Hindustan Foods,https://www.screener.in/company/HNDFDS/consolidated/,536.6,57.51,6305.18,0.0,30.75,33.93,933.37,27.69,14.42
+Diversified FMCG,5,Godavari Bioref.,https://www.screener.in/company/GODAVARIB/consolidated/,285.5,,1461.04,0.0,71.93,10.37,579.5,-5.8,5.79
+IT - Software,2,TCS,https://www.screener.in/company/TCS/consolidated/,3385.7,25.24,1224667.1,1.77,12293.0,-1.69,64479.0,5.29,64.63
+IT - Software,3,Infosys,https://www.screener.in/company/INFY/consolidated/,1564.05,24.5,649718.84,2.75,7038.0,-11.75,40925.0,7.92,37.5
+IT - Software,4,HCL Technologies,https://www.screener.in/company/HCLTECH/consolidated/,1635.6,25.52,443928.65,3.3,4309.0,8.1,30246.0,6.13,31.88
+IT - Software,5,Wipro,https://www.screener.in/company/WIPRO/consolidated/,248.6,19.9,260552.89,2.41,3588.1,25.93,22504.2,1.33,19.51
+IT - Software,6,LTIMindtree,https://www.screener.in/company/LTIM/consolidated/,5215.0,33.62,154546.27,1.24,1128.6,2.6,9771.7,9.88,27.63
+IT - Software,7,Tech Mahindra,https://www.screener.in/company/TECHM/consolidated/,1571.1,36.2,153890.7,2.55,1141.9,72.75,13384.0,3.98,20.08
+IT - Software,8,Persistent Sys,https://www.screener.in/company/PERSISTENT/consolidated/,5680.65,63.49,88897.53,0.46,395.76,25.51,3242.11,25.15,31.39
+IT - Software,9,Oracle Fin.Serv.,https://www.screener.in/company/OFSS/consolidated/,8798.8,32.16,76515.33,3.02,643.9,14.96,1716.3,4.5,40.61
+IT - Software,10,Coforge,https://www.screener.in/company/COFORGE/consolidated/,1774.95,71.02,59360.63,0.86,307.3,20.36,3409.9,47.08,20.66
+IT - Software,11,Hexaware Tech.,https://www.screener.in/company/HEXT/consolidated/,823.95,42.96,50001.29,0.7,327.1,17.24,3207.9,16.7,29.52
+Petroleum Products,2,Reliance Industr,https://www.screener.in/company/RELIANCE/consolidated/,1443.55,28.04,1953141.03,0.35,22611.0,2.41,261388.0,10.51,9.43
+Petroleum Products,3,I O C L,https://www.screener.in/company/IOC/consolidated/,140.75,16.38,198670.81,8.52,8367.63,57.76,195270.29,-1.7,7.37
+Petroleum Products,4,B P C L,https://www.screener.in/company/BPCL/consolidated/,316.65,10.09,137356.61,6.63,4391.83,-8.12,111230.21,-4.57,16.25
+Petroleum Products,5,H P C L,https://www.screener.in/company/HINDPETRO/consolidated/,406.8,12.84,86505.89,5.16,3415.44,26.06,109632.8,-4.4,10.51
+Petroleum Products,6,M R P L,https://www.screener.in/company/MRPL/consolidated/,141.05,439.29,24692.45,2.13,370.63,-67.6,24595.87,-2.89,4.33
+Petroleum Products,7,Castrol India,https://www.screener.in/company/CASTROLIND/,216.85,22.71,21449.12,3.92,233.46,7.96,1422.0,7.3,55.16
+Petroleum Products,8,C P C L,https://www.screener.in/company/CHENNPETRO/consolidated/,648.4,45.12,9659.85,8.48,469.93,-25.16,17249.12,-2.66,4.3
+Petroleum Products,9,Gulf Oil Lubric.,https://www.screener.in/company/GULFOILLUB/,1148.2,15.61,5661.12,3.12,91.62,7.25,915.08,7.3,29.14
+Petroleum Products,10,Savita Oil Tech,https://www.screener.in/company/SOTL/,423.5,23.73,2936.11,0.94,34.53,5.47,1005.6,3.32,11.72
+Petroleum Products,11,Veedol Corporat,https://www.screener.in/company/VEEDOL/consolidated/,1645.75,16.43,2862.85,3.16,59.7,39.1,531.91,9.19,23.99
+Other Utilities,2,Va Tech Wabag,https://www.screener.in/company/WABAG/consolidated/,1585.35,33.44,9856.92,0.0,99.5,37.43,1156.2,23.76,20.05
+Other Utilities,3,ION Exchange,https://www.screener.in/company/IONEXCHANG/consolidated/,543.0,38.33,7965.46,0.28,63.24,-12.71,834.56,6.75,22.11
+Other Utilities,4,Enviro Infra,https://www.screener.in/company/EIEL/consolidated/,225.35,22.43,3955.59,0.0,74.09,28.47,392.92,30.82,31.7
+Other Utilities,5,EMS,https://www.screener.in/company/EMSLIMITED/consolidated/,602.45,18.19,3345.43,0.33,46.92,-1.65,265.83,8.39,26.6
+Other Utilities,6,Rajesh Power,https://www.screener.in/company/544291/,1362.0,28.04,2452.58,0.0,59.61,,759.01,,55.21
+Other Utilities,7,Antony Waste han,https://www.screener.in/company/AWHCL/consolidated/,623.0,25.4,1768.38,0.0,45.99,-20.58,242.66,15.51,12.07
+Other Utilities,8,Eco Recyc.,https://www.screener.in/company/530643/consolidated/,628.1,51.84,1212.03,0.0,2.2,26.06,9.77,21.37,38.19
+Other Utilities,9,Concord Enviro,https://www.screener.in/company/CEWATER/consolidated/,578.0,20.58,1196.22,0.0,47.13,33.36,206.99,3.39,14.79
+Other Utilities,10,JITF Infra Logis,https://www.screener.in/company/JITFINFRA/consolidated/,392.3,,1008.36,0.0,3.99,-95.1,787.52,20.59,12.06
+Other Utilities,11,Z-Tech,https://www.screener.in/company/ZTECH/consolidated/,549.35,39.01,787.23,0.0,9.08,236.3,34.99,58.04,28.71
+Aerospace & Defense,2,Hind.Aeronautics,https://www.screener.in/company/HAL/consolidated/,4987.3,39.85,333538.16,0.69,3976.63,-7.71,13699.85,-7.24,33.87
+Aerospace & Defense,3,Bharat Electron,https://www.screener.in/company/BEL/consolidated/,390.7,53.64,285447.98,0.56,2127.02,18.39,9149.59,6.84,38.99
+Aerospace & Defense,4,Bharat Dynamics,https://www.screener.in/company/BDL/,1933.25,128.99,70865.67,0.27,272.77,-5.54,1776.98,108.05,19.65
+Aerospace & Defense,5,Garden Reach Sh.,https://www.screener.in/company/GRSE/,3246.9,70.43,37193.77,0.27,244.25,118.86,1642.04,61.66,37.28
+Aerospace & Defense,6,Zen Technologies,https://www.screener.in/company/ZENTEC/consolidated/,2083.85,67.12,18810.87,0.05,113.75,203.34,324.97,129.84,36.71
+Aerospace & Defense,7,Data Pattern,https://www.screener.in/company/DATAPATTNS/,3061.45,77.25,17139.21,0.2,114.08,60.45,396.21,117.35,21.63
+Aerospace & Defense,8,Astra Microwave,https://www.screener.in/company/ASTRAMICRO/consolidated/,1132.55,69.98,10742.97,0.18,73.49,35.09,407.85,15.22,19.14
+Aerospace & Defense,9,Mishra Dhatu Nig,https://www.screener.in/company/MIDHANI/,425.25,72.35,7966.63,0.32,56.14,21.04,410.56,1.25,10.55
+Aerospace & Defense,10,Unimech Aero.,https://www.screener.in/company/UNIMECH/consolidated/,1365.85,83.22,6946.34,0.0,29.2,48.07,68.37,9.66,23.84
+Aerospace & Defense,11,Paras Defence,https://www.screener.in/company/PARAS/consolidated/,1646.6,107.86,6634.7,0.0,20.83,105.42,108.23,35.81,15.43
+Beverages,2,Varun Beverages,https://www.screener.in/company/VBL/consolidated/,477.1,58.01,161348.73,0.21,731.36,35.22,5566.94,28.94,24.85
+Beverages,3,United Spirits,https://www.screener.in/company/UNITDSPR/consolidated/,1598.2,71.31,116259.66,0.56,421.0,61.01,3031.0,8.91,28.67
+Beverages,4,United Breweries,https://www.screener.in/company/UBL/consolidated/,2069.0,118.82,54639.31,0.48,97.76,20.16,2322.98,8.89,13.88
+Beverages,5,Radico Khaitan,https://www.screener.in/company/RADICO/,2640.0,102.32,35320.3,0.11,90.71,59.73,1304.08,20.9,16.22
+Beverages,6,Allied Blenders,https://www.screener.in/company/ABDL/consolidated/,428.0,61.46,11971.6,0.84,78.62,3362.24,920.65,19.94,21.07
+Beverages,7,Tilaknagar Inds.,https://www.screener.in/company/TI/consolidated/,352.2,29.74,6828.01,0.14,77.35,95.72,405.81,13.11,28.43
+Beverages,8,India Glycols,https://www.screener.in/company/INDIAGLYCO/consolidated/,1849.4,24.79,5726.18,0.43,64.02,51.67,863.22,-6.79,12.1
+Beverages,9,Som Distilleries,https://www.screener.in/company/SDBL/consolidated/,151.25,30.8,2955.32,0.0,23.73,20.78,338.97,-11.17,18.02
+Beverages,10,Globus Spirits,https://www.screener.in/company/GLOBUSSPR/consolidated/,992.1,131.19,2875.74,0.35,4.9,6025.0,654.77,10.99,5.62
+Beverages,11,Sula Vineyards,https://www.screener.in/company/SULA/consolidated/,290.2,35.03,2449.18,1.25,13.03,-3.84,125.71,2.6,13.25
+Household Products,2,Doms Industries,https://www.screener.in/company/DOMS/consolidated/,2421.15,72.6,14693.27,0.1,51.28,7.24,508.73,26.0,26.15
+Household Products,3,Jyothy Labs,https://www.screener.in/company/JYOTHYLAB/consolidated/,338.9,33.34,12457.61,1.03,76.27,1.52,666.96,1.06,25.13
+Household Products,4,Flair Writing,https://www.screener.in/company/FLAIR/,264.1,24.81,2783.49,0.0,27.53,-15.06,256.57,12.16,15.58
+Household Products,5,Eveready Inds.,https://www.screener.in/company/EVEREADY/consolidated/,321.0,28.34,2336.2,0.31,10.42,29.44,299.04,6.46,16.98
+Household Products,6,Kokuyo Camlin,https://www.screener.in/company/KOKUYOCMLN/,111.0,190.35,1109.76,0.45,4.39,-57.87,200.03,-7.92,3.64
+Household Products,7,Linc,https://www.screener.in/company/LINC/,151.0,23.2,896.77,0.82,12.66,10.57,151.09,9.12,22.54
+Household Products,8,High Energy Bat.,https://www.screener.in/company/504176/,704.25,38.97,631.28,0.43,9.99,112.55,36.08,81.58,22.95
+Household Products,9,Indo National,https://www.screener.in/company/NIPPOBATRY/consolidated/,500.75,3.08,375.6,1.0,0.08,-96.67,97.11,-42.51,32.95
+Household Products,10,Panasonic Energy,https://www.screener.in/company/504093/,402.05,25.62,301.54,2.2,1.17,9.35,63.41,-12.55,16.76
+Household Products,11,Pee Cee Cosma,https://www.screener.in/company/524136/,488.0,13.46,129.32,0.61,0.65,-76.01,35.48,16.18,28.54
+Retailing,2,Avenue Super.,https://www.screener.in/company/DMART/consolidated/,4197.65,100.85,273154.96,0.0,550.79,-2.19,14871.86,16.86,18.02
+Retailing,3,Eternal Ltd,https://www.screener.in/company/ETERNAL/consolidated/,261.95,479.66,252790.98,0.0,39.0,-77.71,5833.0,63.76,3.18
+Retailing,4,Trent,https://www.screener.in/company/TRENT/consolidated/,5775.65,133.8,205299.02,0.09,311.6,18.57,4216.94,27.88,31.71
+Retailing,5,Info Edg.(India),https://www.screener.in/company/NAUKRI/consolidated/,1509.1,109.95,97794.28,0.29,677.89,271.0,749.63,14.03,5.28
+Retailing,6,Swiggy,https://www.screener.in/company/SWIGGY/consolidated/,374.75,,93449.43,0.0,-1081.18,-104.09,4410.02,44.8,-29.2
+Retailing,7,Vishal Mega Mart,https://www.screener.in/company/VMM/consolidated/,127.1,93.04,58778.16,0.0,115.11,88.03,2547.89,23.15,13.11
+Retailing,8,FSN E-Commerce,https://www.screener.in/company/NYKAA/consolidated/,197.15,853.22,56378.9,0.0,19.05,174.89,2061.76,23.61,9.56
+Retailing,9,Brainbees Solut.,https://www.screener.in/company/FIRSTCRY/consolidated/,415.2,,21646.03,0.0,-111.53,-19.62,1930.32,15.81,-0.4
+Retailing,10,Vedant Fashions,https://www.screener.in/company/MANYAVAR/,816.4,50.98,19833.98,1.04,101.11,-12.68,367.44,1.18,26.66
+Retailing,11,Indiamart Inter.,https://www.screener.in/company/INDIAMART/consolidated/,2437.4,27.68,14632.24,1.23,180.6,81.33,355.1,12.84,34.24
+Insurance,2,Life Insurance,https://www.screener.in/company/LICI/consolidated/,958.35,12.49,606156.16,1.04,19038.67,37.55,243134.49,1.85,53.48
+Insurance,3,SBI Life Insuran,https://www.screener.in/company/SBILIFE/,1782.55,74.02,178644.1,0.15,813.51,0.33,23070.95,-36.37,16.88
+Insurance,4,HDFC Life Insur.,https://www.screener.in/company/HDFCLIFE/consolidated/,754.0,89.66,162379.83,0.28,475.36,15.48,24190.65,-13.73,7.43
+Insurance,5,ICICI Lombard,https://www.screener.in/company/ICICIGI/,2006.9,39.72,99588.5,0.67,509.59,-1.91,6051.16,12.24,24.86
+Insurance,6,ICICI Pru Life,https://www.screener.in/company/ICICIPRULI/consolidated/,636.5,77.62,92025.66,0.13,385.28,121.85,15687.32,-30.22,11.83
+Insurance,7,General Insuranc,https://www.screener.in/company/GICRE/consolidated/,400.25,9.42,70219.86,2.42,2498.86,-3.16,13208.55,28.81,15.6
+Insurance,8,Max Financial,https://www.screener.in/company/MFSL/consolidated/,1511.2,158.07,52153.74,0.0,38.28,174.88,12375.76,-16.87,8.07
+Insurance,9,Go Digit General,https://www.screener.in/company/GODIGIT/,351.55,76.37,32448.93,0.0,115.61,119.54,2594.55,15.0,10.65
+Insurance,10,New India Assura,https://www.screener.in/company/NIACL/consolidated/,192.1,30.53,31658.08,1.03,356.16,14.57,11664.22,-0.19,3.56
+Insurance,11,Star Health Insu,https://www.screener.in/company/STARHEALTH/,470.8,42.85,27673.91,0.0,0.51,-99.64,4081.25,10.65,11.93
+Ferrous Metals,2,JSW Steel,https://www.screener.in/company/JSWSTEEL/consolidated/,1004.5,64.48,245671.21,0.73,1501.0,17.42,44819.0,-3.13,8.03
+Ferrous Metals,3,Tata Steel,https://www.screener.in/company/TATASTEEL/consolidated/,157.5,56.22,196578.22,2.29,1200.88,90.93,56218.11,-4.21,9.08
+Ferrous Metals,4,Jindal Steel,https://www.screener.in/company/JINDALSTEL/consolidated/,962.4,27.41,98137.12,0.21,-303.59,-41.03,13183.13,-2.25,10.84
+Ferrous Metals,5,Jindal Stain.,https://www.screener.in/company/JSL/consolidated/,695.3,22.87,57280.95,0.43,589.96,18.63,10198.32,7.87,18.18
+Ferrous Metals,6,S A I L,https://www.screener.in/company/SAIL/consolidated/,135.05,21.46,55786.93,1.48,1250.98,-16.13,29316.14,4.86,6.72
+Ferrous Metals,7,KIOCL,https://www.screener.in/company/KIOCL/,315.6,,19180.6,0.0,-36.86,14.1,246.46,-33.78,-9.48
+Ferrous Metals,8,Sarda Energy,https://www.screener.in/company/SARDAEN/consolidated/,434.85,21.9,15333.7,0.23,100.38,13.4,1238.84,39.31,15.58
+Ferrous Metals,9,NMDC Steel,https://www.screener.in/company/NSLNISP/,39.47,,11567.14,0.0,-473.39,45.01,2838.25,53.77,-12.97
+Ferrous Metals,10,Kirl. Ferrous,https://www.screener.in/company/KIRLFER/,591.0,30.66,9728.88,0.93,95.56,59.4,1736.19,13.3,12.52
+Ferrous Metals,11,Jai Balaji Inds.,https://www.screener.in/company/JAIBALAJI/consolidated/,104.6,17.09,9536.25,0.0,75.48,-72.35,1589.53,-13.87,36.08
+Diversified Metals,2,Vedanta,https://www.screener.in/company/VEDL/consolidated/,448.0,12.55,174946.35,9.71,4961.0,142.23,40455.0,13.93,27.0
+Diversified Metals,3,Pondy Oxides,https://www.screener.in/company/POCL/,761.4,32.9,2140.84,0.33,18.01,46.42,516.63,44.8,16.76
+Diversified Metals,4,Innomet,https://www.screener.in/company/INNOMET/,171.0,118.33,221.28,0.0,0.16,-91.44,17.88,52.17,8.51
+Diversified Metals,5,Bonlon Industrie,https://www.screener.in/company/543211/,34.1,17.98,48.36,0.0,0.43,-47.56,146.08,23.13,4.99
+Printing & Publication,2,Navneet Educat.,https://www.screener.in/company/NAVNETEDUL/consolidated/,141.45,15.4,3196.86,1.84,47.21,3.83,433.78,-0.34,15.24
+Printing & Publication,3,Repro India,https://www.screener.in/company/REPRO/consolidated/,544.7,,781.27,0.0,1.13,-62.08,123.06,-3.22,1.51
+Printing & Publication,4,S Chand & Compan,https://www.screener.in/company/SCHAND/consolidated/,215.75,12.65,760.55,1.82,141.57,10.4,471.4,7.83,9.72
+Printing & Publication,5,Chetana,https://www.screener.in/company/CHETANA/consolidated/,94.1,14.16,191.96,0.0,3.44,-66.57,44.37,10.1,23.16
+Printing & Publication,6,Infomedia Press,https://www.screener.in/company/INFOMEDIA/,8.06,,41.5,0.0,-0.91,-5.8,0.0,,
+Printing & Publication,7,Unick Fix-A-Form,https://www.screener.in/company/541503/,64.27,13.51,35.26,0.0,1.04,-9.57,13.3,-9.65,10.49
+Printing & Publication,8,Inland Printers,https://www.screener.in/company/530787/,58.3,,28.82,0.0,-0.09,66.67,0.0,,-1.7
+Printing & Publication,9,Kiran Print Pack,https://www.screener.in/company/531413/,35.15,293.17,17.59,0.0,-0.02,91.3,0.17,750.0,3.19
+Printing & Publication,10,Shakti Press,https://www.screener.in/company/526841/,27.5,138.24,9.68,0.0,-0.04,92.73,4.08,22.89,3.9
+Cigarettes & Tobacco Products,2,Godfrey Phillips,https://www.screener.in/company/GODFRYPHLP/consolidated/,8190.4,36.93,42564.38,0.68,279.61,31.17,1573.39,79.76,29.62
+Cigarettes & Tobacco Products,3,Elitecon Inter.,https://www.screener.in/company/539533/consolidated/,571.05,131.09,9128.25,0.0,42.97,,313.16,,
+Cigarettes & Tobacco Products,4,VST Industries,https://www.screener.in/company/VSTIND/,281.0,22.46,4769.68,4.85,53.0,-39.91,349.24,-6.88,20.9
+Cigarettes & Tobacco Products,5,NTC Industries,https://www.screener.in/company/526723/consolidated/,199.2,25.09,285.24,0.0,5.54,739.39,23.6,87.15,9.28
+Cigarettes & Tobacco Products,6,Sinnar Bidi Udy.,https://www.screener.in/company/509887/,898.8,,35.95,0.0,-0.04,63.64,0.98,-20.97,-3.15
+Cigarettes & Tobacco Products,7,Shanthala,https://www.screener.in/company/SHANTHALA/,26.0,17.95,17.41,0.0,0.55,223.53,26.89,18.98,5.98
+Cigarettes & Tobacco Products,8,Raghunath Intl.,https://www.screener.in/company/526813/consolidated/,12.74,2.52,6.38,0.0,0.22,,0.0,,20.4
+Healthcare Services,2,Max Healthcare,https://www.screener.in/company/MAXHEALTH/consolidated/,1168.6,100.43,113605.05,0.13,319.0,26.82,1909.74,34.21,14.89
+Healthcare Services,3,Apollo Hospitals,https://www.screener.in/company/APOLLOHOSP/consolidated/,6941.7,69.04,99831.32,0.23,414.5,53.51,5592.2,13.11,17.12
+Healthcare Services,4,Fortis Health.,https://www.screener.in/company/FORTIS/consolidated/,763.7,68.41,57659.98,0.13,188.02,27.66,2007.2,12.39,11.99
+Healthcare Services,5,Narayana Hrudaya,https://www.screener.in/company/NH/consolidated/,1749.9,44.92,35761.07,0.23,197.28,7.8,1475.44,18.39,20.63
+Healthcare Services,6,Global Health,https://www.screener.in/company/MEDANTA/consolidated/,1219.6,63.15,32756.93,0.0,101.38,7.96,931.25,15.16,19.52
+Healthcare Services,7,Aster DM Health.,https://www.screener.in/company/ASTERDM/consolidated/,580.0,72.63,28971.79,0.68,85.54,136.09,1000.34,2.75,10.68
+Healthcare Services,8,Krishna Institu.,https://www.screener.in/company/KIMS/consolidated/,661.05,70.11,26451.14,0.0,106.1,43.82,796.9,25.73,15.14
+Healthcare Services,9,Syngene Intl.,https://www.screener.in/company/SYNGENE/consolidated/,645.7,55.08,26017.78,0.19,183.3,-2.81,1018.0,11.03,13.46
+Healthcare Services,10,Dr Lal Pathlabs,https://www.screener.in/company/LALPATHLAB/consolidated/,2852.8,48.95,23847.09,0.84,155.5,83.2,602.6,10.49,28.78
+Healthcare Services,11,Rainbow Child.,https://www.screener.in/company/RAINBOW/consolidated/,1412.85,58.99,14347.73,0.2,56.56,10.54,370.11,8.5,18.86
+Telecom - Services,2,Bharti Airtel,https://www.screener.in/company/BHARTIARTL/consolidated/,1871.25,40.47,1122279.86,0.43,12475.8,185.61,47876.2,27.33,15.36
+Telecom - Services,3,Indus Towers,https://www.screener.in/company/INDUSTOWER/consolidated/,391.1,10.62,105481.31,0.0,1779.1,-3.99,7727.1,7.42,29.22
+Telecom - Services,4,Bharti Hexacom,https://www.screener.in/company/BHARTIHEXA/,1824.0,68.12,91200.0,0.21,468.4,110.42,2289.0,22.54,17.55
+Telecom - Services,5,Vodafone Idea,https://www.screener.in/company/IDEA/consolidated/,6.92,,74973.38,0.0,-7166.1,6.63,11013.5,3.83,-1.87
+Telecom - Services,6,Tata Comm,https://www.screener.in/company/TATACOMM/consolidated/,1709.5,42.84,48747.78,1.46,1040.51,-21.61,5990.35,6.12,14.82
+Telecom - Services,7,Railtel Corpn.,https://www.screener.in/company/RAILTEL/,444.1,45.26,14252.83,0.61,113.45,55.13,1308.28,57.11,21.78
+Telecom - Services,8,Tata Tele. Mah.,https://www.screener.in/company/TTML/,71.14,,13916.97,0.0,-306.42,1.44,308.27,-4.65,50.32
+Telecom - Services,9,HFCL,https://www.screener.in/company/HFCL/consolidated/,91.39,76.78,13304.32,0.22,-83.3,-174.47,800.72,-39.62,7.67
+Telecom - Services,10,Route Mobile,https://www.screener.in/company/ROUTE/consolidated/,1021.2,19.4,6433.23,1.08,60.28,-15.2,1175.0,15.53,17.71
+Telecom - Services,11,Bondada Engineer,https://www.screener.in/company/543971/consolidated/,464.9,45.69,5115.15,0.01,79.36,154.56,1090.78,116.0,40.43
+Telecom -  Equipment & Accessories,2,ITI,https://www.screener.in/company/ITI/,324.55,,31190.35,0.0,-4.84,71.85,1045.7,73.91,-1.33
+Telecom -  Equipment & Accessories,3,Tejas Networks,https://www.screener.in/company/TEJASNET/consolidated/,726.6,28.77,12830.87,0.35,-71.8,-148.92,1906.94,43.72,15.46
+Telecom -  Equipment & Accessories,4,Optiemus Infra.,https://www.screener.in/company/OPTIEMUS/consolidated/,597.7,82.31,5212.94,0.0,22.46,-6.57,449.26,-8.33,14.41
+Telecom -  Equipment & Accessories,5,Sterlite Tech.,https://www.screener.in/company/STLTECH/consolidated/,75.85,,3702.96,0.0,-40.0,105.38,1052.0,24.79,2.92
+Telecom -  Equipment & Accessories,6,Birla Cable,https://www.screener.in/company/BIRLACABLE/,181.4,108.18,544.17,0.96,1.45,-0.68,156.23,-10.58,5.15
+Telecom -  Equipment & Accessories,7,Valiant Commun.,https://www.screener.in/company/526775/consolidated/,671.15,53.27,511.95,0.0,4.22,69.48,16.12,21.11,22.1
+Telecom -  Equipment & Accessories,8,ADC India,https://www.screener.in/company/523411/,1047.65,19.7,481.92,2.39,2.95,-57.49,45.74,3.7,46.57
+Telecom -  Equipment & Accessories,9,Frog Cellsat,https://www.screener.in/company/FROG/,238.8,15.73,370.84,0.0,2.78,-57.73,48.48,9.04,21.37
+Telecom -  Equipment & Accessories,10,Kavveri Defence,https://www.screener.in/company/KAVVERITEL/consolidated/,50.38,27.03,173.28,0.0,3.69,1945.0,8.2,11614.29,8.43
+Telecom -  Equipment & Accessories,11,Aksh Optifibre,https://www.screener.in/company/AKSHOPTFBR/consolidated/,8.95,,144.66,0.0,-6.65,-495.35,32.98,-34.42,-13.45
+Oil,2,O N G C,https://www.screener.in/company/ONGC/consolidated/,240.05,8.31,302015.01,5.1,8856.33,-34.02,170811.73,-0.77,12.42
+Oil,3,Oil India,https://www.screener.in/company/OIL/consolidated/,424.35,10.55,69098.7,2.47,1496.97,-38.61,8808.34,-3.7,12.97
+Oil,4,Aegis Vopak Term,https://www.screener.in/company/AEGISVOPAK/consolidated/,256.7,328.66,28442.14,0.0,,,,,7.68
+Oil,5,Prabha Energy,https://www.screener.in/company/PRABHA/consolidated/,208.8,,2858.59,0.0,-0.94,-709.09,1.02,0.0,-0.35
+Oil,6,Deep Industries,https://www.screener.in/company/DEEPINDS/consolidated/,420.25,20.1,2689.6,0.58,-206.66,12.21,167.23,39.75,11.7
+Oil,7,Hind.Oil Explor.,https://www.screener.in/company/HINDOILEXP/consolidated/,170.15,15.28,2249.33,0.0,51.16,17.96,43.39,-85.02,12.28
+Oil,8,Jindal Drilling,https://www.screener.in/company/JINDRILL/consolidated/,623.65,8.37,1806.91,0.08,71.61,577.4,245.01,23.79,16.41
+Oil,9,Dolphin Offshore,https://www.screener.in/company/DOLPHIN/consolidated/,417.95,36.22,1683.47,0.0,10.45,1074.16,20.44,948.21,14.79
+Oil,10,Asian Energy,https://www.screener.in/company/ASIANENE/consolidated/,310.25,33.05,1392.07,0.0,22.55,42.25,215.44,81.45,16.59
+Oil,11,Selan Expl. Tech,https://www.screener.in/company/SELAN/,604.0,12.39,917.02,0.0,15.93,30.04,61.72,12.79,22.72
+Metals & Minerals Trading,2,Adani Enterp.,https://www.screener.in/company/ADANIENT/consolidated/,2536.05,66.68,292758.6,0.05,4014.9,88.79,26965.86,-7.59,9.45
+Metals & Minerals Trading,3,Lloyds Enterpris,https://www.screener.in/company/LLOYDSENT/consolidated/,70.26,156.29,8922.88,0.14,24.56,-55.03,489.32,46.63,6.56
+Metals & Minerals Trading,4,LS Industries,https://www.screener.in/company/514446/,40.39,,3428.38,0.0,-0.85,69.96,0.28,154.55,-43.8
+Metals & Minerals Trading,5,Nupur Recyclers,https://www.screener.in/company/NRL/consolidated/,88.58,42.09,608.01,0.0,2.31,24.1,37.22,-14.85,19.19
+Metals & Minerals Trading,6,Mangalam World.,https://www.screener.in/company/MWL/,166.85,17.97,495.55,0.59,8.48,-8.43,324.04,36.97,14.39
+Metals & Minerals Trading,7,ABans Enterprise,https://www.screener.in/company/512165/consolidated/,33.21,12.29,231.64,0.0,4.28,424.24,1973.88,248.98,12.43
+Metals & Minerals Trading,8,Emergent Indust.,https://www.screener.in/company/506180/consolidated/,505.9,61.16,231.19,0.0,-1.08,-363.41,47.06,-72.94,36.97
+Metals & Minerals Trading,9,Starlineps Enter,https://www.screener.in/company/540492/,7.0,27.58,181.54,0.0,-0.88,-340.0,13.9,19.93,29.73
+Metals & Minerals Trading,10,La Tim Metal & I,https://www.screener.in/company/505693/,8.99,,117.44,0.0,-5.74,-279.38,69.93,-1.71,3.03
+Metals & Minerals Trading,11,Aeonx Digital,https://www.screener.in/company/524594/consolidated/,154.4,17.54,71.03,0.65,1.33,24.3,9.56,-5.16,11.64
+Banks,2,HDFC Bank,https://www.screener.in/company/HDFCBANK/consolidated/,1978.7,21.4,1514843.75,1.11,19284.57,6.88,86779.34,9.25,7.51
+Banks,3,ICICI Bank,https://www.screener.in/company/ICICIBANK/consolidated/,1457.05,20.36,1039289.05,0.69,14353.69,15.69,48386.92,13.57,7.88
+Banks,4,St Bk of India,https://www.screener.in/company/SBIN/consolidated/,812.85,9.35,725347.74,1.96,20379.46,-8.34,126997.0,8.11,6.47
+Banks,5,Kotak Mah. Bank,https://www.screener.in/company/KOTAKBANK/consolidated/,2072.45,21.41,412110.92,0.1,4932.76,-7.58,16771.93,10.66,7.64
+Banks,6,Axis Bank,https://www.screener.in/company/AXISBANK/consolidated/,1195.2,13.21,370643.24,0.08,7509.1,-1.63,32452.32,7.35,7.11
+Banks,7,Bank of Baroda,https://www.screener.in/company/BANKBARODA/consolidated/,246.3,6.16,127390.98,3.39,5446.52,5.6,32345.0,4.1,6.29
+Banks,8,Punjab Natl.Bank,https://www.screener.in/company/PNB/consolidated/,110.15,6.85,126618.0,2.63,5011.17,49.28,32523.09,13.39,6.32
+Banks,9,Union Bank (I),https://www.screener.in/company/UNIONBANK/consolidated/,153.3,6.49,116946.51,2.35,5011.22,50.57,27869.0,5.13,6.72
+Banks,10,IDBI Bank,https://www.screener.in/company/IDBI/consolidated/,100.94,14.23,108566.96,1.49,2094.28,25.38,6982.97,-0.17,6.76
+Banks,11,Canara Bank,https://www.screener.in/company/CANBK/consolidated/,115.7,5.98,104929.4,3.46,5111.23,28.3,31495.57,7.54,6.79
+Financial Technology (Fintech),2,PB Fintech.,https://www.screener.in/company/POLICYBZR/consolidated/,1916.9,278.91,88034.99,0.0,170.66,183.47,1507.87,38.39,5.9
+Financial Technology (Fintech),3,One 97,https://www.screener.in/company/PAYTM/consolidated/,962.5,,61398.62,0.0,-544.6,95.49,1911.5,-15.69,-10.14
+Financial Technology (Fintech),4,Infibeam Avenues,https://www.screener.in/company/INFIBEAM/consolidated/,22.58,28.26,6298.65,0.22,54.68,0.56,1160.52,62.03,8.27
+Financial Technology (Fintech),5,One Mobikwik,https://www.screener.in/company/MOBIKWIK/,270.3,,2099.83,0.0,-55.71,-1034.62,265.85,0.92,-13.09
+Financial Technology (Fintech),6,MOS Utility,https://www.screener.in/company/MOS/consolidated/,281.15,56.04,701.04,0.0,7.75,32.29,308.25,199.13,21.28
+Financial Technology (Fintech),7,WSFX Global,https://www.screener.in/company/511147/,72.33,25.76,89.4,1.38,-1.87,-287.0,21.8,20.24,17.36
+Financial Technology (Fintech),8,Suvidhaa Info.,https://www.screener.in/company/SUVIDHAA/consolidated/,3.81,,79.94,0.0,-5.56,-62.1,1.7,-18.66,-33.14
+Financial Technology (Fintech),9,AGS Transact,https://www.screener.in/company/AGSTRA/consolidated/,5.25,,67.43,0.0,-194.26,-1163.07,209.6,-43.92,1.26
+Other Consumer Services,2,SIS,https://www.screener.in/company/SIS/consolidated/,370.3,20.41,5351.29,0.0,-223.35,557.07,3427.87,9.25,13.14
+Other Consumer Services,3,NIIT Learning,https://www.screener.in/company/NIITMTS/consolidated/,354.0,20.42,4828.13,1.51,48.72,-9.53,429.71,7.99,27.93
+Other Consumer Services,4,MPS,https://www.screener.in/company/MPSLTD/consolidated/,2645.1,31.32,4526.18,2.84,47.07,48.31,182.11,21.88,41.42
+Other Consumer Services,5,NIIT,https://www.screener.in/company/NIITLTD/consolidated/,135.0,38.38,1833.75,0.93,13.7,19.1,86.29,16.07,5.62
+Other Consumer Services,6,Veranda Learning,https://www.screener.in/company/VERANDA/consolidated/,198.0,,1473.02,0.0,8.36,112.56,114.11,11.21,-4.27
+Other Consumer Services,7,Shanti Educat.,https://www.screener.in/company/539921/consolidated/,87.55,199.68,1409.58,0.0,-0.47,56.88,18.84,549.66,14.13
+Other Consumer Services,8,Lucent Industrie,https://www.screener.in/company/539682/,682.5,1329.54,1023.75,0.0,0.99,10000.0,4.52,,6.67
+Other Consumer Services,9,Aptech,https://www.screener.in/company/APTECHT/consolidated/,157.5,46.66,909.85,2.86,4.94,13.56,118.69,14.06,13.85
+Other Consumer Services,10,Vinsys IT Serv.,https://www.screener.in/company/VINSYS/consolidated/,395.05,19.31,579.85,0.0,19.1,28.21,119.57,31.02,28.62
+Other Consumer Services,11,Exhicon Events,https://www.screener.in/company/543895/consolidated/,411.65,20.51,533.62,0.24,19.65,197.79,80.88,96.45,34.49
+Capital Markets,2,BSE,https://www.screener.in/company/BSE/consolidated/,2933.2,90.45,119125.75,0.21,493.67,364.43,916.97,70.09,43.54
+Capital Markets,3,HDFC AMC,https://www.screener.in/company/HDFCAMC/,5096.1,44.29,109010.45,1.82,638.73,18.05,901.22,29.59,43.33
+Capital Markets,4,Motil.Oswal.Fin.,https://www.screener.in/company/MOTILALOFS/consolidated/,870.65,20.85,52157.54,0.57,-63.18,-108.74,1190.26,-44.74,18.67
+Capital Markets,5,Nippon Life Ind.,https://www.screener.in/company/NAM-INDIA/consolidated/,791.95,39.07,50274.73,2.01,298.6,-12.92,566.54,20.99,41.07
+Capital Markets,6,360 ONE,https://www.screener.in/company/360ONE/consolidated/,1070.0,39.06,42173.34,0.56,249.6,2.88,820.77,3.74,14.91
+Capital Markets,7,Multi Comm. Exc.,https://www.screener.in/company/MCX/consolidated/,7419.65,67.54,37821.15,0.1,135.46,54.16,291.33,60.83,42.86
+Capital Markets,8,C D S L,https://www.screener.in/company/CDSL/consolidated/,1776.0,70.51,37118.4,0.53,100.4,-22.4,224.45,-6.78,41.93
+Capital Markets,9,Angel One,https://www.screener.in/company/ANGELONE/consolidated/,3221.0,24.83,29142.71,1.45,174.52,-48.66,1056.01,-22.2,25.8
+Capital Markets,10,Nuvama Wealth,https://www.screener.in/company/NUVAMA/consolidated/,7368.25,26.9,26519.44,1.95,255.27,41.24,1119.81,20.56,20.41
+Capital Markets,11,Aditya AMC,https://www.screener.in/company/ABSLAMC/consolidated/,777.0,24.18,22419.86,1.74,228.08,9.45,428.84,17.31,35.5
+Consumable Fuels,2,Coal India,https://www.screener.in/company/COALINDIA/consolidated/,398.85,6.96,245769.3,6.39,9592.53,12.45,37824.54,-1.02,48.04
+Consumable Fuels,3,Sandur Manganese,https://www.screener.in/company/SANDUMA/consolidated/,464.25,15.98,7521.67,0.22,156.5,-4.52,1321.27,139.46,21.77
+Consumable Fuels,4,Anmol India,https://www.screener.in/company/ANMOL/,17.8,14.48,101.3,0.0,1.6,-59.08,314.23,-22.0,9.83
+Consumable Fuels,5,Reetech Intl,https://www.screener.in/company/543617/consolidated/,32.5,,13.74,0.0,-5.05,-631.58,6.11,-69.28,-27.33
+Consumable Fuels,6,Foundry Fuel,https://www.screener.in/company/513579/,6.61,,5.3,0.0,-0.12,-9.09,0.0,,
+Engineering Services,2,Dredging Corpn.,https://www.screener.in/company/DREDGECORP/,790.9,,2212.14,0.0,21.4,192.65,462.41,66.4,-0.32
+Engineering Services,3,Knowledge Marine,https://www.screener.in/company/KMEW/consolidated/,1571.0,34.15,1696.82,0.0,10.51,49.93,47.48,15.66,24.69
+Healthcare Equipment & Supplies,2,Poly Medicure,https://www.screener.in/company/POLYMED/consolidated/,2228.7,66.72,22589.53,0.13,91.83,34.33,440.83,16.6,20.24
+Healthcare Equipment & Supplies,3,Laxmi Dental,https://www.screener.in/company/LAXMIDENTL/consolidated/,392.65,80.28,2158.08,0.0,4.27,-50.86,60.67,10.21,18.72
+Healthcare Equipment & Supplies,4,Tarsons Products,https://www.screener.in/company/TARSONS/consolidated/,374.5,66.91,1992.6,0.54,10.2,-1.16,112.69,6.59,6.93
+Healthcare Equipment & Supplies,5,Vasa Denticity,https://www.screener.in/company/DENTALKART/,622.55,60.56,1034.78,0.0,4.32,-31.97,72.8,27.67,23.17
+Healthcare Equipment & Supplies,6,Prevest Denpro,https://www.screener.in/company/543363/,496.0,32.71,595.34,0.21,5.25,12.66,18.54,14.16,24.99
+Healthcare Equipment & Supplies,7,OSEL Devices,https://www.screener.in/company/OSELDEVICE/,288.25,23.2,464.93,0.0,12.04,55.76,99.12,21.55,31.13
+Healthcare Equipment & Supplies,8,Aprameya Enginee,https://www.screener.in/company/APRAMEYA/,174.55,20.6,332.35,0.0,17.84,,126.43,,31.12
+Healthcare Equipment & Supplies,9,Nureca,https://www.screener.in/company/NURECA/consolidated/,287.0,,287.0,0.0,2.47,159.52,31.74,87.04,-0.9
+Healthcare Equipment & Supplies,10,Vaidya Sane,https://www.screener.in/company/MADHAVBAUG/consolidated/,154.45,20.28,162.38,0.0,3.38,421.25,48.05,-0.37,18.45
+Healthcare Equipment & Supplies,11,QMS Medical,https://www.screener.in/company/QMSMEDI/consolidated/,88.5,13.07,157.97,0.56,3.6,116.88,44.58,38.06,17.35
+Media,2,D B Corp,https://www.screener.in/company/DBCORP/consolidated/,266.35,12.8,4749.61,4.88,52.33,-57.29,547.66,-11.26,21.01
+Media,3,Jagran Prakashan,https://www.screener.in/company/JAGRAN/consolidated/,73.09,16.96,1593.0,8.21,-51.46,-362.46,481.0,-5.62,6.87
+Media,4,Signpost India,https://www.screener.in/company/SIGNPOST/,190.15,30.08,1016.33,0.25,0.92,-94.85,110.84,7.16,15.21
+Media,5,R K Swamy,https://www.screener.in/company/RKSWAMY/consolidated/,196.2,53.09,990.62,1.03,12.33,-52.9,83.51,-29.4,9.88
+Media,6,Vertoz,https://www.screener.in/company/VERTOZ/consolidated/,10.4,34.54,886.39,0.0,6.01,28.14,65.18,42.75,15.52
+Media,7,Bright Outdoor,https://www.screener.in/company/543831/,580.0,44.23,843.83,0.09,9.93,-16.13,69.53,6.25,15.71
+Media,8,Sandesh,https://www.screener.in/company/SANDESH/,1144.0,10.7,824.13,0.44,9.78,-86.4,75.36,-11.9,7.57
+Media,9,Hindustan Media,https://www.screener.in/company/HMVL/,90.0,8.63,663.64,0.0,45.17,327.34,201.25,7.02,5.52
+Media,10,OnMobile Global,https://www.screener.in/company/ONMOBILE/consolidated/,54.25,,576.16,0.0,-7.93,-1244.07,156.22,27.34,-2.45
+Media,11,H T Media,https://www.screener.in/company/HTMEDIA/consolidated/,20.85,181.29,486.46,0.0,51.36,49.06,513.57,10.59,3.1
+Transport Infrastructure,2,Adani Ports,https://www.screener.in/company/ADANIPORTS/consolidated/,1471.3,29.54,317941.28,0.48,3023.1,29.88,8488.44,23.08,13.8
+Transport Infrastructure,3,GMR Airports,https://www.screener.in/company/GMRAIRPORT/consolidated/,86.3,,91156.16,0.0,-252.66,-61.54,2863.34,17.02,6.89
+Transport Infrastructure,4,JSW Infrast,https://www.screener.in/company/JSWINFRA/consolidated/,303.8,42.53,63798.05,0.18,515.58,54.79,1283.18,17.04,14.51
+Transport Infrastructure,5,National High,https://www.screener.in/company/NHIT/consolidated/,133.5,79.56,25856.96,7.58,140.51,162.05,646.98,168.94,3.38
+Transport Infrastructure,6,Guj Pipavav Port,https://www.screener.in/company/GPPL/,157.4,19.09,7620.92,4.64,109.04,8.52,251.77,0.2,24.88
+Transport Infrastructure,7,IRB InvIT Fund,https://www.screener.in/company/IRBINVIT/consolidated/,60.25,9.83,3497.51,13.28,184.48,0.26,563.19,1.08,9.48
+Transport Infrastructure,8,BF Utilities,https://www.screener.in/company/BFUTILITIE/,770.0,181.56,2901.32,0.0,0.07,-99.25,2.37,-0.42,12.8
+Transport Infrastructure,9,Dreamfolks Servi,https://www.screener.in/company/DREAMFOLKS/consolidated/,262.95,21.54,1400.67,0.78,14.93,-16.96,314.16,11.75,33.76
+Transport Infrastructure,10,Allcargo Termi,https://www.screener.in/company/ATL/consolidated/,29.79,22.48,750.88,0.0,-2.41,-126.0,185.93,2.29,11.83
+Transport Infrastructure,11,Starlog Enterp.,https://www.screener.in/company/520155/consolidated/,79.71,,119.3,0.0,-0.04,-160.24,2.84,-14.71,-2.0
